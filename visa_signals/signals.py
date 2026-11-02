@@ -247,16 +247,19 @@ def florida(days, log):
             pc, sc = g("p_country").upper(), g("state_country").upper()
             if pc in ("", "US", "UN"):
                 pc = g("m_country").upper()
-            foreign_hq = pc and pc not in ("US", "UN", "") and pc in ISO_TREATY
-            foreign_inc = len(sc) == 2 and sc not in US_STATES and sc in ISO_TREATY
-            # Fallback while the address offsets are being confirmed: a treaty-country
-            # name written anywhere in the record's address/officer area.
-            # Only the principal + mailing ADDRESS fields (220-470), never officer names
-            # (surnames such as Jordan or England would match).
             us_addr = (g("p_state").upper() in US_STATES or line[458:460].upper() in US_STATES)
             if us_addr:   # a US principal or mailing address = a local business, not a foreign company
                 continue
-            m = FL_COUNTRY_RX.search(line[220:470].upper())
+            # Country names are matched only in the principal + mailing ADDRESS fields (220-470),
+            # never officer names (surnames such as Jordan or England would match).
+            addr = line[220:470].upper().replace("PANAMA CITY", "")  # Panama City, Florida
+            m = FL_COUNTRY_RX.search(addr)
+            # Country codes that are also US state codes (CA, CO, DE, IN, ME, PA, AL, AR, GA...) are
+            # ambiguous: keep them only with a country name or a Canadian postcode in the address.
+            if pc in US_STATES and not (m or re.search(r"\b[A-Z]\d[A-Z] ?\d[A-Z]\d\b", addr)):
+                pc = ""
+            foreign_hq = pc and pc not in ("US", "UN", "") and pc in ISO_TREATY
+            foreign_inc = len(sc) == 2 and sc not in US_STATES and sc in ISO_TREATY
             if not (foreign_hq or foreign_inc or m):
                 continue
             if m and not (foreign_hq or foreign_inc):
