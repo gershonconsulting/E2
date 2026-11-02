@@ -1,0 +1,491 @@
+[
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-10-29",
+  "company": "Soliton ID, Inc.",
+  "hq_city": "Montreal",
+  "hq_country": "Canada",
+  "us_entity_state": "DELAWARE",
+  "year_of_inc": "2026",
+  "industry": "Other Technology",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "1000000",
+  "sold_usd": "105000",
+  "first_sale": "2026-10-16",
+  "phone": "438-926-7659",
+  "people": [
+   {
+    "name": "Georges Abou-Rjeili",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2162910/000216291026000001/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-10-29",
+  "company": "Stardust Semiconductors Inc.",
+  "hq_city": "Ra'Anana",
+  "hq_country": "Israel",
+  "us_entity_state": "DELAWARE",
+  "year_of_inc": "2026",
+  "industry": "Other Technology",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "2700000",
+  "sold_usd": "2700000",
+  "first_sale": "2026-10-16",
+  "phone": "972508621271",
+  "people": [
+   {
+    "name": "Ariel Raz",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Ofir Bieber",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Mor Peretz",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Noam Shaar",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Amir Fishelov",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2154535/000215453526000001/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-10-28",
+  "company": "Eleanor Holdings Inc.",
+  "hq_city": "Toronto",
+  "hq_country": "Canada",
+  "us_entity_state": "DELAWARE",
+  "year_of_inc": "",
+  "industry": "Retailing",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "29228023",
+  "sold_usd": "0",
+  "first_sale": "",
+  "phone": "416-214-4300",
+  "people": [
+   {
+    "name": "Mark Gordon",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Brett Parham",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Cory Goodfellow",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Rich Jackson",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Jeremy Baker",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Rene Boissonault",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Eric Singer",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Robert Wagman",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/1740479/000110465926119639/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-10-28",
+  "company": "Juno Corp.",
+  "hq_city": "Toronto",
+  "hq_country": "Canada",
+  "us_entity_state": "ONTARIO, CANADA",
+  "year_of_inc": "2024",
+  "industry": "Other",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "427920",
+  "sold_usd": "427920",
+  "first_sale": "2026-10-22",
+  "phone": "416-628-5940",
+  "people": [
+   {
+    "name": "Robert Cudney",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Michael Leskovec",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Jacob McKinnon",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Fraser Laschinger",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Daniel Noone",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Terry MacGibbon",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Ernie Eves",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Larry Childress",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2035583/000106299326005583/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-10-28",
+  "company": "Sami &amp; Hertzel, LLC",
+  "hq_city": "Tel Aviv",
+  "hq_country": "Israel",
+  "us_entity_state": "DELAWARE",
+  "year_of_inc": "2026",
+  "industry": "Other",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "15900000",
+  "sold_usd": "8619500",
+  "first_sale": "2026-10-13",
+  "phone": "310-272-6476",
+  "people": [
+   {
+    "name": "Lior Raz",
+    "roles": [
+     "Executive Officer",
+     "Director",
+     "Promoter"
+    ],
+    "clarification": "Manager of the Issuer"
+   },
+   {
+    "name": "Avi Issacharoff",
+    "roles": [
+     "Executive Officer",
+     "Director",
+     "Promoter"
+    ],
+    "clarification": "Manager of the Issuer"
+   },
+   {
+    "name": "Oliver Weisberg",
+    "roles": [
+     "Director",
+     "Promoter"
+    ],
+    "clarification": "Manager of the Issuer"
+   },
+   {
+    "name": "Jason Banh",
+    "roles": [
+     "Director"
+    ],
+    "clarification": "Manager of the Issuer"
+   },
+   {
+    "name": "Orni Birnbaum",
+    "roles": [
+     "Promoter"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2162266/000216226626000001/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-10-26",
+  "company": "Bioliberty Ltd",
+  "hq_city": "Edinburgh",
+  "hq_country": "United Kingdom",
+  "us_entity_state": "UNITED KINGDOM",
+  "year_of_inc": "",
+  "industry": "Other Technology",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "660905",
+  "sold_usd": "335906",
+  "first_sale": "2026-10-16",
+  "phone": "816-753-1000",
+  "people": [
+   {
+    "name": "Barry Hextall",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Rowan Armstrong",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Conan Bradley",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Shea Quinn",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Ross O'Hanlon",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Ramy El-Madany",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "David O'Reilly",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Russell Bailey",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Dana Strauss",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Albert Nicholl",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2151818/000215181826000002/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-10-26",
+  "company": "Else Nutrition Holdings Inc.",
+  "hq_city": "Surrey",
+  "hq_country": "Canada",
+  "us_entity_state": "BRITISH COLUMBIA, CANADA",
+  "year_of_inc": "",
+  "industry": "Other",
+  "revenue_range": "$1,000,001 - $5,000,000",
+  "offering_usd": "618750",
+  "sold_usd": "343750",
+  "first_sale": "2026-10-19",
+  "phone": "972 3-644-5095",
+  "people": [
+   {
+    "name": "Hamutal Yitzhak",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Uriel Kesler",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "MIchael Azar",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Reuben Halevi",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Yaki Lutski",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Satwinder Mann",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Eli Ronen",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/1807936/000180793626000002/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-10-27",
+  "company": "Bright Spark Counselling",
+  "hq_city": "Langford",
+  "hq_country": "BC",
+  "us_entity_state": "CO",
+  "entity_type": "FO",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268329065",
+  "signal": "Registered a FO in Colorado, formed in BC"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-10-29",
+  "company": "Strathmore Services Inc.",
+  "hq_city": "Montreal",
+  "hq_country": "CA",
+  "us_entity_state": "CO",
+  "entity_type": "FPC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268337736",
+  "signal": "Registered a FPC in Colorado, formed in DE"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-10-30",
+  "company": "Avenue Living U.S. Operating LP No. 23",
+  "hq_city": "Calgary",
+  "hq_country": "CA",
+  "us_entity_state": "CO",
+  "entity_type": "FLP",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268342860",
+  "signal": "Registered a FLP in Colorado, formed in DE"
+ }
+]
