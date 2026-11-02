@@ -1,5 +1,7 @@
 # E2 intro email (task #08) — sent from olivier@gershonconsulting.com, Cc sales@gershonconsulting.com
 
+Campaign code: CC01 (Claude Campaign #1)
+
 Subject: <Company> in the US, without a US sales team
 
 Hi <First name>,
@@ -16,4 +18,7 @@ Best regards,
 
 <signature.html (HTML part) / signature.txt (plain-text part)>
 
+CC01
+
 Rules: "E2" must appear in the body (it does, in paragraph 2). The calendar link is exactly https://www.gershonconsulting.com/calendar. The Gmail API does not add Olivier's signature, so append signature.html yourself.
+Campaign code: the last line of EVERY email in this campaign (the intro AND both follow-ups) is "CC01", on its own line AFTER the signature — in both the HTML part (a small grey line, e.g. <p style="color:#999;font-size:11px">CC01</p>) and the plain-text part. Nothing goes after it. It tells Olivier the email belongs to Claude Campaign #1.
