@@ -21,31 +21,6 @@
  {
   "source": "Florida Sunbiz",
   "signal_date": "2026-10-30",
-  "company": "OMEGA POLYMERS INC.",
-  "hq_city": "Panama City",
-  "hq_country": "PANAMA",
-  "us_entity_state": "FL",
-  "entity_type": "DOMP",
-  "people": [
-   {
-    "name": "MILLER              LACY          N",
-    "roles": [
-     "P"
-    ]
-   },
-   {
-    "name": "BRITTAIN            JAMES         Z",
-    "roles": [
-     "VP"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=P26000051442",
-  "signal": "New Florida filing by a company based or formed in PANAMA"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-30",
   "company": "JONVIC HOLDINGS INC.",
   "hq_city": "Ontario L4K 4K2 Canada",
   "hq_country": "CANADA",
@@ -84,44 +59,6 @@
  {
   "source": "Florida Sunbiz",
   "signal_date": "2026-10-30",
-  "company": "TORRES VINAS COMMERCE LLC",
-  "hq_city": "Centro",
-  "hq_country": "ME",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "VINAS GRAHAM        ANABELLE",
-    "roles": [
-     "MGR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000549755",
-  "signal": "New Florida filing by a company based or formed in ME"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-30",
-  "company": "HAIR BY KATIE FRANKLIN LLC",
-  "hq_city": "Panama City Fl",
-  "hq_country": "PANAMA",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "FRANKLIN            KATHRYN",
-    "roles": [
-     "MGR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000548787",
-  "signal": "New Florida filing by a company based or formed in PANAMA"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-30",
   "company": "GARBO GROUP USA INC.",
   "hq_city": "Ontario M6B 1P5 Canada",
   "hq_country": "CANADA",
@@ -137,44 +74,6 @@
   ],
   "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000006708",
   "signal": "New Florida filing by a company based or formed in CANADA"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-29",
-  "company": "RGA HOLDINGS MIAMI INC.",
-  "hq_city": "Brossard",
-  "hq_country": "CA",
-  "us_entity_state": "FL",
-  "entity_type": "DOMP",
-  "people": [
-   {
-    "name": "COLUBRIALE          DOMINIC",
-    "roles": [
-     "DP"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=P26000051370",
-  "signal": "New Florida filing by a company based or formed in CA"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-29",
-  "company": "CHURCH AND SON HANDYMAN SERVICES LLC",
-  "hq_city": "Panama City Beach",
-  "hq_country": "PANAMA",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "CHURCH              EUGENE        R",
-    "roles": [
-     "MGR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000548073",
-  "signal": "New Florida filing by a company based or formed in PANAMA"
  },
  {
   "source": "Florida Sunbiz",
@@ -197,63 +96,6 @@
  },
  {
   "source": "Florida Sunbiz",
-  "signal_date": "2026-10-29",
-  "company": "AMORT & PARTNER LLC",
-  "hq_city": "Pfarrkirchen",
-  "hq_country": "DE",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "AMORT               MANUELA MARIA",
-    "roles": [
-     "AMBR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000547756",
-  "signal": "New Florida filing by a company based or formed in DE"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-29",
-  "company": "SOLID GOLD GROUP LLC",
-  "hq_city": "Doral",
-  "hq_country": "CO",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "CASCANTE            JONATHAN      R",
-    "roles": [
-     "MGR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000548288",
-  "signal": "New Florida filing by a company based or formed in CO"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-28",
-  "company": "SHEFA GARDENS, LLC",
-  "hq_city": "Vancouver",
-  "hq_country": "CA",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "CORENSTEIN          FEDERICO",
-    "roles": [
-     "MGR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000545072",
-  "signal": "New Florida filing by a company based or formed in CA"
- },
- {
-  "source": "Florida Sunbiz",
   "signal_date": "2026-10-28",
   "company": "THE MEAD ORGANIZATION LLC",
   "hq_city": "London",
@@ -270,50 +112,6 @@
   ],
   "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000544673",
   "signal": "New Florida filing by a company based or formed in UK"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-28",
-  "company": "KHORAYCH INVESTMENTS INC.",
-  "hq_city": "Milton, Ontario",
-  "hq_country": "CA",
-  "us_entity_state": "FL",
-  "entity_type": "FORP",
-  "people": [
-   {
-    "name": "KHORAYCH            ANTHONY",
-    "roles": [
-     "PD"
-    ]
-   },
-   {
-    "name": "COSTA               AMANDA",
-    "roles": [
-     "SD"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000006628",
-  "signal": "New Florida filing by a company based or formed in CA"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-27",
-  "company": "THE BLEND WELLNESS INC.",
-  "hq_city": "Coconut Grove",
-  "hq_country": "CA",
-  "us_entity_state": "FL",
-  "entity_type": "DOMP",
-  "people": [
-   {
-    "name": "RUBINOFF            LESLEY",
-    "roles": [
-     "PD"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=P26000050980",
-  "signal": "New Florida filing by a company based or formed in CA"
  },
  {
   "source": "Florida Sunbiz",
@@ -381,31 +179,6 @@
  {
   "source": "Florida Sunbiz",
   "signal_date": "2026-10-27",
-  "company": "CPE PROPERTY LLC",
-  "hq_city": "Miami",
-  "hq_country": "CA",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "CURATE.PROTECT.ENHANCE HOLDING CORPORATION",
-    "roles": [
-     "AMBR"
-    ]
-   },
-   {
-    "name": "KAZMI               MURTUZA",
-    "roles": [
-     "MGR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000543061",
-  "signal": "New Florida filing by a company based or formed in CA"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-27",
   "company": "TWENTY SIX ENTERPRISES LLC",
   "hq_city": "Israel",
   "hq_country": "ISRAEL",
@@ -444,25 +217,6 @@
  {
   "source": "Florida Sunbiz",
   "signal_date": "2026-10-27",
-  "company": "ELEMENT PRESERVE LAB LLC",
-  "hq_city": "Vienna",
-  "hq_country": "CA",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "TSANG               KIN HANG KENNY",
-    "roles": [
-     "AMBR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000541167",
-  "signal": "New Florida filing by a company based or formed in CA"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-27",
   "company": "TWS THE WORKSTATION LLC",
   "hq_city": "Chon Buri",
   "hq_country": "TH",
@@ -490,44 +244,6 @@
   ],
   "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000541288",
   "signal": "New Florida filing by a company based or formed in TH"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-27",
-  "company": "AARC GROUP LLC",
-  "hq_city": "Hollywood",
-  "hq_country": "CA",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "ADAMS               ASHLEY",
-    "roles": [
-     "DIR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000541668",
-  "signal": "New Florida filing by a company based or formed in CA"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-27",
-  "company": "ELC HOLDING AND REAL ESTATE MANAGEMENT LLC",
-  "hq_city": "Panama City",
-  "hq_country": "PANAMA",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "YOUSSEF             CARL          A",
-    "roles": [
-     "MGR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000543129",
-  "signal": "New Florida filing by a company based or formed in PANAMA"
  },
  {
   "source": "SEC Form D",
