@@ -194,6 +194,11 @@ FL = {"number": (0, 12), "name": (12, 204), "status": (204, 205), "type": (205, 
       "p_city": (304, 332), "p_state": (332, 334), "p_zip": (334, 344), "p_country": (344, 346),
       "file_date": (472, 480), "fei": (480, 494), "state_country": (503, 505)}
 FL_OFFICER_START, FL_OFFICER_LEN = 668, 128
+FL_COUNTRY_RX = re.compile(r"\\b(UNITED KINGDOM|ENGLAND|SCOTLAND|GERMANY|FRANCE|ITALY|SPAIN|PORTUGAL|NETHERLANDS|"
+    r"BELGIUM|SWITZERLAND|AUSTRIA|SWEDEN|NORWAY|DENMARK|FINLAND|IRELAND|POLAND|ISRAEL|JAPAN|KOREA|TAIWAN|"
+    r"CANADA|MEXICO|COLOMBIA|ARGENTINA|CHILE|PANAMA|COSTA RICA|ECUADOR|PARAGUAY|AUSTRALIA|NEW ZEALAND|"
+    r"TURKEY|TURKIYE|UKRAINE|ROMANIA|BULGARIA|CROATIA|SERBIA|ESTONIA|LATVIA|LITHUANIA|LUXEMBOURG|SINGAPORE|"
+    r"PHILIPPINES|THAILAND|JAMAICA|TRINIDAD|HONDURAS|MOROCCO|TUNISIA|EGYPT|JORDAN|PAKISTAN|ARMENIA|GEORGIA REP)\\b")
 ISO_TREATY = set("AL AR AM AU AT AZ BH BD BE BA BG CM CA CL CO CR HR CZ DK EC EG EE ET FI FR GE DE GD "
                  "HN IE IL IT JM JP JO KZ KR XK KG LV LR LT LU MK MX MD MN ME MA NL NZ NO OM PK PA PY PH "
                  "PL PT RO SN RS SG SK SI ES LK SR SE CH TW TH TG TT TN TR UA GB UK".split())
@@ -225,7 +230,10 @@ def florida(days, log):
             line = raw.decode("latin-1")
             g = lambda k: line[FL[k][0]:FL[k][1]].strip()
             if not sample_logged:
-                log("florida sample: " + json.dumps({k: g(k) for k in FL})); sample_logged = True
+                log("florida sample: " + json.dumps({k: g(k) for k in FL}))
+                for rl in lines[:3]:
+                    log("florida raw: " + json.dumps(rl.decode("latin-1")))
+                sample_logged = True
             officers, foreign_officers = [], []
             for i in range(6):
                 b = line[FL_OFFICER_START + i * FL_OFFICER_LEN: FL_OFFICER_START + (i + 1) * FL_OFFICER_LEN]
@@ -238,8 +246,14 @@ def florida(days, log):
             pc, sc = g("p_country").upper(), g("state_country").upper()
             foreign_hq = pc and pc not in ("US", "") and pc in ISO_TREATY
             foreign_inc = len(sc) == 2 and sc not in US_STATES and sc in ISO_TREATY
-            if not (foreign_hq or foreign_inc):
+            # Fallback while the address offsets are being confirmed: a treaty-country
+            # name written anywhere in the record's address/officer area.
+            m = FL_COUNTRY_RX.search(line[204:].upper())
+            if not (foreign_hq or foreign_inc or m):
                 continue
+            if m and not (foreign_hq or foreign_inc):
+                pc = m.group(1)
+                foreign_hq = True
             out.append({
                 "source": "Florida Sunbiz",
                 "signal_date": str(day),
