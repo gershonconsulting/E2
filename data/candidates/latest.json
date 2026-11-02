@@ -2,18 +2,6 @@
  {
   "source": "Florida Sunbiz",
   "signal_date": "2026-10-30",
-  "company": "MONTERREY BEHAVIOR LLC",
-  "hq_city": "Apopka",
-  "hq_country": "ES",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000548600",
-  "signal": "New Florida filing by a company based or formed in ES"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-30",
   "company": "KERUB TECHNOLOGY LLC",
   "hq_city": "Brehal",
   "hq_country": "FR",
@@ -29,74 +17,6 @@
   ],
   "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000549580",
   "signal": "New Florida filing by a company based or formed in FR"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-30",
-  "company": "C.ROSELLO TRUCKING LOGISTICS LLC",
-  "hq_city": "Miami",
-  "hq_country": "ES",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "ROSELLO DIAZ        CARLOS RODNEY",
-    "roles": [
-     "MGR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000549171",
-  "signal": "New Florida filing by a company based or formed in ES"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-30",
-  "company": "PASSION FOR SOUL CHURCH \" INC\"",
-  "hq_city": "Florida City",
-  "hq_country": "MD",
-  "us_entity_state": "FL",
-  "entity_type": "DOMNP",
-  "people": [
-   {
-    "name": "REMY                JEANPIERRE    P",
-    "roles": [
-     "P"
-    ]
-   },
-   {
-    "name": "JOHANNE             BAZELAIS      V",
-    "roles": [
-     "VP"
-    ]
-   },
-   {
-    "name": "ANNETE              BAZELAIS      S",
-    "roles": [
-     "VP"
-    ]
-   },
-   {
-    "name": "RAPHAEL             JEAN ROLAND   D",
-    "roles": [
-     "D"
-    ]
-   },
-   {
-    "name": "JEANPIERRE            CLEMY",
-    "roles": [
-     "S"
-    ]
-   },
-   {
-    "name": "SIOMON              LOUISSAINT    J",
-    "roles": [
-     "S"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=N26000014831",
-  "signal": "New Florida filing by a company based or formed in MD"
  },
  {
   "source": "Florida Sunbiz",
@@ -145,31 +65,6 @@
  {
   "source": "Florida Sunbiz",
   "signal_date": "2026-10-30",
-  "company": "360 SOLUTIONS GROUP LLC",
-  "hq_city": "Homestead",
-  "hq_country": "ES",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "GIRALDO JIMENEZ     LUISA FERNANDA",
-    "roles": [
-     "MGR"
-    ]
-   },
-   {
-    "name": "OCAMPO TERRANOVA    LORENA",
-    "roles": [
-     "MGR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000550423",
-  "signal": "New Florida filing by a company based or formed in ES"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-30",
   "company": "AGILE OPS LLC",
   "hq_city": "Alnwick, Northumberland",
   "hq_country": "UK",
@@ -204,25 +99,6 @@
   ],
   "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000549755",
   "signal": "New Florida filing by a company based or formed in ME"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-30",
-  "company": "PURPOSELY REPURPOSED LLC",
-  "hq_city": "Naples",
-  "hq_country": "CO",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "ERSNER              LAUREN        D",
-    "roles": [
-     "OWNE"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000548956",
-  "signal": "New Florida filing by a company based or formed in CO"
  },
  {
   "source": "Florida Sunbiz",
@@ -284,25 +160,6 @@
  {
   "source": "Florida Sunbiz",
   "signal_date": "2026-10-29",
-  "company": "DIAMOND TECH LLC",
-  "hq_city": "Miami",
-  "hq_country": "CO",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "ARROYO              PAMELA",
-    "roles": [
-     "MGR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000548500",
-  "signal": "New Florida filing by a company based or formed in CO"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-29",
   "company": "CHURCH AND SON HANDYMAN SERVICES LLC",
   "hq_city": "Panama City Beach",
   "hq_country": "PANAMA",
@@ -318,25 +175,6 @@
   ],
   "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000548073",
   "signal": "New Florida filing by a company based or formed in PANAMA"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-29",
-  "company": "ALMA TRADE LLC",
-  "hq_city": "Weston",
-  "hq_country": "ES",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "MONROY RODRIGUEZ    CLAUDIA       SMS",
-    "roles": [
-     "MGR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000547804",
-  "signal": "New Florida filing by a company based or formed in ES"
  },
  {
   "source": "Florida Sunbiz",
@@ -360,25 +198,6 @@
  {
   "source": "Florida Sunbiz",
   "signal_date": "2026-10-29",
-  "company": "DR PREMIUM SERVICES LLC",
-  "hq_city": "Miami Fl",
-  "hq_country": "ES",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "GUILLEN ESTRADA     ROELMER",
-    "roles": [
-     "PRES"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000546565",
-  "signal": "New Florida filing by a company based or formed in ES"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-29",
   "company": "AMORT & PARTNER LLC",
   "hq_city": "Pfarrkirchen",
   "hq_country": "DE",
@@ -394,31 +213,6 @@
   ],
   "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000547756",
   "signal": "New Florida filing by a company based or formed in DE"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-29",
-  "company": "Z&R AYNAT LOGISTICS \"LLC\"",
-  "hq_city": "Largo",
-  "hq_country": "ES",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "AYNAT ROJAS         RENE          ASR",
-    "roles": [
-     "AMBR"
-    ]
-   },
-   {
-    "name": "AYNAT               ZELEIKA        SRA",
-    "roles": [
-     "AMBR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000548246",
-  "signal": "New Florida filing by a company based or formed in ES"
  },
  {
   "source": "Florida Sunbiz",
@@ -476,25 +270,6 @@
   ],
   "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000544673",
   "signal": "New Florida filing by a company based or formed in UK"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-28",
-  "company": "TU ORO LUXURY LLC",
-  "hq_city": "Coral Springs",
-  "hq_country": "CO",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "CORTES              JOHN          A",
-    "roles": [
-     "AMBR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000544184",
-  "signal": "New Florida filing by a company based or formed in CO"
  },
  {
   "source": "Florida Sunbiz",
@@ -587,25 +362,6 @@
  {
   "source": "Florida Sunbiz",
   "signal_date": "2026-10-27",
-  "company": "ATLANTIC PACIFIC ENTERPRISES LLC",
-  "hq_city": "Miami",
-  "hq_country": "MD",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "RIVERO NAVARRO      ISKANDER",
-    "roles": [
-     "MGR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000541121",
-  "signal": "New Florida filing by a company based or formed in MD"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-27",
   "company": "CODE RIVALS LLC",
   "hq_city": "Wolverhampton",
   "hq_country": "GB",
@@ -688,37 +444,6 @@
  {
   "source": "Florida Sunbiz",
   "signal_date": "2026-10-27",
-  "company": "MARJO TECH LLC",
-  "hq_city": "Indianapolis",
-  "hq_country": "ES",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "LEITE               CRISTIANE",
-    "roles": [
-     "MGR"
-    ]
-   },
-   {
-    "name": "RUSCHONI            VITOR",
-    "roles": [
-     "AMBR"
-    ]
-   },
-   {
-    "name": "CHIQUINATO DIOMASIO JOÃO ANTONIO",
-    "roles": [
-     "AMBR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000541575",
-  "signal": "New Florida filing by a company based or formed in ES"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-27",
   "company": "ELEMENT PRESERVE LAB LLC",
   "hq_city": "Vienna",
   "hq_country": "CA",
@@ -734,25 +459,6 @@
   ],
   "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000541167",
   "signal": "New Florida filing by a company based or formed in CA"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-27",
-  "company": "CI WAREHOUSE KINGSTON LLC",
-  "hq_city": "Coral Gables",
-  "hq_country": "ES",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "IMERY               CARLOS",
-    "roles": [
-     "MGR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000541657",
-  "signal": "New Florida filing by a company based or formed in ES"
  },
  {
   "source": "Florida Sunbiz",
@@ -807,56 +513,6 @@
  {
   "source": "Florida Sunbiz",
   "signal_date": "2026-10-27",
-  "company": "VERSIO REGIS ICOBI LIMITED LIABILITY COMPANY",
-  "hq_city": "Miami",
-  "hq_country": "BA",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "WILSON              BRANDON       SVRI",
-    "roles": [
-     "VRI"
-    ]
-   },
-   {
-    "name": "ROLLE               DENRICK       EVRI",
-    "roles": [
-     "VRI"
-    ]
-   },
-   {
-    "name": "ROLLE               CARLOS         VRI",
-    "roles": [
-     "VRI"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000542008",
-  "signal": "New Florida filing by a company based or formed in BA"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-27",
-  "company": "INTEGRITY PROFESSIONAL SERVICES SV LLC",
-  "hq_city": "Davenport",
-  "hq_country": "ES",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "VENEGAS             SANDRA",
-    "roles": [
-     "MGR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000541629",
-  "signal": "New Florida filing by a company based or formed in ES"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-27",
   "company": "ELC HOLDING AND REAL ESTATE MANAGEMENT LLC",
   "hq_city": "Panama City",
   "hq_country": "PANAMA",
@@ -872,56 +528,6 @@
   ],
   "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000543129",
   "signal": "New Florida filing by a company based or formed in PANAMA"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-26",
-  "company": "GUTI ALLIANCE LLC",
-  "hq_city": "Pereira",
-  "hq_country": "CO",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "GUTIERREZ CARDONA   LUIS          G",
-    "roles": [
-     "MGR"
-    ]
-   },
-   {
-    "name": "GUTIERREZ CARDONA   DIEGO         M",
-    "roles": [
-     "AMBR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000539591",
-  "signal": "New Florida filing by a company based or formed in CO"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-26",
-  "company": "GK AVENTURA GROUP LLC",
-  "hq_city": "Hallandale Beach",
-  "hq_country": "ES",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "LOPEZ MANCEBO       KENIFER       BSR",
-    "roles": [
-     "MBR"
-    ]
-   },
-   {
-    "name": "COCHON JIMENEZ      GRACE         LSRA",
-    "roles": [
-     "MBR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000539922",
-  "signal": "New Florida filing by a company based or formed in ES"
  },
  {
   "source": "SEC Form D",
