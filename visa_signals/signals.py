@@ -192,7 +192,8 @@ def colorado(days, log):
 # Layout per dos.fl.gov "Corporate File Definitions" (fixed width, 1-indexed in the spec).
 FL = {"number": (0, 12), "name": (12, 204), "status": (204, 205), "type": (205, 220),
       "p_city": (304, 332), "p_state": (332, 334), "p_zip": (334, 344), "p_country": (344, 346),
-      "file_date": (472, 480), "fei": (480, 494), "state_country": (503, 505)}
+      "m_country": (470, 472), "file_date": (472, 480), "fei": (480, 494), "state_country": (503, 505)}
+# Confirmed against real records 2026-11-02 (record length 1440).
 FL_OFFICER_START, FL_OFFICER_LEN = 668, 128
 FL_COUNTRY_RX = re.compile(r"\b(UNITED KINGDOM|ENGLAND|SCOTLAND|GERMANY|FRANCE|ITALY|SPAIN|PORTUGAL|NETHERLANDS|"
     r"BELGIUM|SWITZERLAND|AUSTRIA|SWEDEN|NORWAY|DENMARK|FINLAND|IRELAND|POLAND|ISRAEL|JAPAN|KOREA|TAIWAN|"
@@ -244,11 +245,16 @@ def florida(days, log):
                 if o["name"]:
                     officers.append(o)
             pc, sc = g("p_country").upper(), g("state_country").upper()
-            foreign_hq = pc and pc not in ("US", "") and pc in ISO_TREATY
+            if pc in ("", "US", "UN"):
+                pc = g("m_country").upper()
+            foreign_hq = pc and pc not in ("US", "UN", "") and pc in ISO_TREATY
             foreign_inc = len(sc) == 2 and sc not in US_STATES and sc in ISO_TREATY
             # Fallback while the address offsets are being confirmed: a treaty-country
             # name written anywhere in the record's address/officer area.
-            m = FL_COUNTRY_RX.search(line[204:].upper())
+            # Only the principal + mailing ADDRESS fields (220-470), never officer names
+            # (surnames such as Jordan or England would match).
+            us_addr = (g("p_state").upper() in US_STATES or line[458:460].upper() in US_STATES)
+            m = None if us_addr else FL_COUNTRY_RX.search(line[220:470].upper())
             if not (foreign_hq or foreign_inc or m):
                 continue
             if m and not (foreign_hq or foreign_inc):
