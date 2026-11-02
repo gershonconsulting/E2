@@ -254,7 +254,9 @@ def florida(days, log):
             # Only the principal + mailing ADDRESS fields (220-470), never officer names
             # (surnames such as Jordan or England would match).
             us_addr = (g("p_state").upper() in US_STATES or line[458:460].upper() in US_STATES)
-            m = None if us_addr else FL_COUNTRY_RX.search(line[220:470].upper())
+            if us_addr:   # a US principal or mailing address = a local business, not a foreign company
+                continue
+            m = FL_COUNTRY_RX.search(line[220:470].upper())
             if not (foreign_hq or foreign_inc or m):
                 continue
             if m and not (foreign_hq or foreign_inc):
