@@ -1,0 +1,266 @@
+[
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-10-30",
+  "company": "KERUB TECHNOLOGY LLC",
+  "hq_city": "Brehal",
+  "hq_country": "FR",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [
+   {
+    "name": "FOURRIERE-KRAKOWKA  ORANE",
+    "roles": [
+     "AMBR"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000549580",
+  "signal": "New Florida filing by a company based or formed in FR"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-10-30",
+  "company": "JONVIC HOLDINGS INC.",
+  "hq_city": "Ontario L4K 4K2 Canada",
+  "hq_country": "CANADA",
+  "us_entity_state": "FL",
+  "entity_type": "FORP",
+  "people": [
+   {
+    "name": "CARERI              JOHN",
+    "roles": [
+     "DPS"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000006702",
+  "signal": "New Florida filing by a company based or formed in CANADA"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-10-30",
+  "company": "AGILE OPS LLC",
+  "hq_city": "Alnwick, Northumberland",
+  "hq_country": "UK",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [
+   {
+    "name": "ARMSTRONG-TILOW     ELAINE",
+    "roles": [
+     "AMBR"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000549325",
+  "signal": "New Florida filing by a company based or formed in UK"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-10-30",
+  "company": "GARBO GROUP USA INC.",
+  "hq_city": "Ontario M6B 1P5 Canada",
+  "hq_country": "CANADA",
+  "us_entity_state": "FL",
+  "entity_type": "FORP",
+  "people": [
+   {
+    "name": "GRUNDMAN            MICHAEL",
+    "roles": [
+     "DPST"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000006708",
+  "signal": "New Florida filing by a company based or formed in CANADA"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-02",
+  "company": "Blackshark.ai Inc.",
+  "hq_city": "Graz",
+  "hq_country": "Austria",
+  "us_entity_state": "DELAWARE",
+  "year_of_inc": "2026",
+  "industry": "Other Technology",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "29945244",
+  "sold_usd": "25145250",
+  "first_sale": "2026-10-16",
+  "phone": "436764067419",
+  "people": [
+   {
+    "name": "Michael Putz",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "PT Ungvichian",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Lisa Chai",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2163157/000216315726000001/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-02",
+  "company": "EVIA Life Sciences Inc.",
+  "hq_city": "Tokyo",
+  "hq_country": "Japan",
+  "us_entity_state": "DELAWARE",
+  "year_of_inc": "",
+  "industry": "Biotechnology",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "5498154",
+  "sold_usd": "700002",
+  "first_sale": "2026-10-23",
+  "phone": "81 80 2105 3464",
+  "people": [
+   {
+    "name": "Kosuke Takishima",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Joshua Schwab",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Michael Kim",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Takahiro Ochiya",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2162667/000216266726000001/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-02",
+  "company": "Phytokana Ingredients Inc.",
+  "hq_city": "Calgary",
+  "hq_country": "Canada",
+  "us_entity_state": "ALBERTA, CANADA",
+  "year_of_inc": "2024",
+  "industry": "Other",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "276502",
+  "sold_usd": "276502",
+  "first_sale": "2026-07-10",
+  "phone": "403-816-9021",
+  "people": [
+   {
+    "name": "Martin Vogel",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Christopher Theal",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Paul Hemsley",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Scott Exner",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Parisa Fallahi",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Vincent Chahley",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Tyler Arnott",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Drew Sharp",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2154295/000215429526000001/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-10-29",
+  "company": "Strathmore Services Inc.",
+  "hq_city": "Montreal",
+  "hq_country": "CA",
+  "us_entity_state": "CO",
+  "entity_type": "FPC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268337736",
+  "signal": "Registered a FPC in Colorado, formed in DE"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-10-30",
+  "company": "Avenue Living U.S. Operating LP No. 23",
+  "hq_city": "Calgary",
+  "hq_country": "CA",
+  "us_entity_state": "CO",
+  "entity_type": "FLP",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268342860",
+  "signal": "Registered a FLP in Colorado, formed in DE"
+ }
+]
