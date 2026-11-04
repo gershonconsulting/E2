@@ -1,79 +1,148 @@
 [
  {
   "source": "Florida Sunbiz",
-  "signal_date": "2026-10-30",
-  "company": "KERUB TECHNOLOGY LLC",
-  "hq_city": "Brehal",
-  "hq_country": "FR",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "FOURRIERE-KRAKOWKA  ORANE",
-    "roles": [
-     "AMBR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000549580",
-  "signal": "New Florida filing by a company based or formed in FR"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-30",
-  "company": "JONVIC HOLDINGS INC.",
-  "hq_city": "Ontario L4K 4K2 Canada",
-  "hq_country": "CANADA",
-  "us_entity_state": "FL",
-  "entity_type": "FORP",
-  "people": [
-   {
-    "name": "CARERI              JOHN",
-    "roles": [
-     "DPS"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000006702",
-  "signal": "New Florida filing by a company based or formed in CANADA"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-10-30",
-  "company": "AGILE OPS LLC",
-  "hq_city": "Alnwick, Northumberland",
+  "signal_date": "2026-11-03",
+  "company": "JIT2 LLC",
+  "hq_city": "Dullingham",
   "hq_country": "UK",
   "us_entity_state": "FL",
   "entity_type": "FLAL",
   "people": [
    {
-    "name": "ARMSTRONG-TILOW     ELAINE",
+    "name": "VILJOEN             JOHANNES      J",
     "roles": [
      "AMBR"
     ]
    }
   ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000549325",
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000555794",
   "signal": "New Florida filing by a company based or formed in UK"
  },
  {
   "source": "Florida Sunbiz",
-  "signal_date": "2026-10-30",
-  "company": "GARBO GROUP USA INC.",
-  "hq_city": "Ontario M6B 1P5 Canada",
-  "hq_country": "CANADA",
+  "signal_date": "2026-11-03",
+  "company": "HARVESTA BIOTECH USA, INC.",
+  "hq_city": "On L3R 8C7",
+  "hq_country": "CA",
   "us_entity_state": "FL",
-  "entity_type": "FORP",
+  "entity_type": "DOMP",
+  "people": [],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=P26000052355",
+  "signal": "New Florida filing by a company based or formed in CA"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-03",
+  "company": "MNF CAPITAL LLC",
+  "hq_city": "Ciudad De Mexico",
+  "hq_country": "MX",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
   "people": [
    {
-    "name": "GRUNDMAN            MICHAEL",
+    "name": "RODAS MARTINEZ      LUIS RUBEN",
     "roles": [
-     "DPST"
+     "AMBR"
+    ]
+   },
+   {
+    "name": "VAZQUEZ DEL RIO     MARIA DE LOS  A",
+    "roles": [
+     "AMBR"
     ]
    }
   ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000006708",
-  "signal": "New Florida filing by a company based or formed in CANADA"
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000554439",
+  "signal": "New Florida filing by a company based or formed in MX"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-03",
+  "company": "Vesalius Longevity Labs Inc.",
+  "hq_city": "Vancouver",
+  "hq_country": "Canada",
+  "us_entity_state": "BRITISH COLUMBIA, CANADA",
+  "year_of_inc": "",
+  "industry": "Pharmaceuticals",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "30112500",
+  "sold_usd": "30112500",
+  "first_sale": "2026-10-28",
+  "phone": "604-307-8290",
+  "people": [
+   {
+    "name": "PRADEEP ALBERT",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "CHRISTOPHER COOPER",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "TIMMI STUMP",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "JAMES MCROBERTS",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "KEVIN SERRE",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "ROBERT MCCUE",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "JOEL LEONOFF",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "KEVIN MAYER",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "DAVID ADELMAN",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "LEE APPLBAUM",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2131865/000206075526000064/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
  },
  {
   "source": "SEC Form D",
@@ -241,18 +310,6 @@
  },
  {
   "source": "Colorado business registry",
-  "signal_date": "2026-10-29",
-  "company": "Strathmore Services Inc.",
-  "hq_city": "Montreal",
-  "hq_country": "CA",
-  "us_entity_state": "CO",
-  "entity_type": "FPC",
-  "people": [],
-  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268337736",
-  "signal": "Registered a FPC in Colorado, formed in DE"
- },
- {
-  "source": "Colorado business registry",
   "signal_date": "2026-10-30",
   "company": "Avenue Living U.S. Operating LP No. 23",
   "hq_city": "Calgary",
@@ -262,5 +319,17 @@
   "people": [],
   "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268342860",
   "signal": "Registered a FLP in Colorado, formed in DE"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-11-03",
+  "company": "Comcarde Limited",
+  "hq_city": "Edinburgh",
+  "hq_country": "United Kingdom",
+  "us_entity_state": "CO",
+  "entity_type": "FPC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268357129",
+  "signal": "Registered a FPC in Colorado, formed in United Kingdom"
  }
 ]
