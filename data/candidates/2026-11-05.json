@@ -1,0 +1,282 @@
+[
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-04",
+  "company": "OBA TRIBE CORP.",
+  "hq_city": "Ashdod, Israel 7752621",
+  "hq_country": "ISRAEL",
+  "us_entity_state": "FL",
+  "entity_type": "FORP",
+  "people": [
+   {
+    "name": "JUN                 ETAY          P",
+    "roles": [
+     "DP"
+    ]
+   },
+   {
+    "name": "YONA                ADI",
+    "roles": [
+     "D"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000006801",
+  "signal": "New Florida filing by a company based or formed in ISRAEL"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-04",
+  "company": "BASELINE CULTURE PERFORMANCE LLC",
+  "hq_city": "Thousand Oaks",
+  "hq_country": "CANADA",
+  "us_entity_state": "FL",
+  "entity_type": "FORL",
+  "people": [
+   {
+    "name": "MBOKO               VICTORIA",
+    "roles": [
+     "MGR"
+    ]
+   },
+   {
+    "name": "MBOKO               VICTORIA",
+    "roles": [
+     "MBR"
+    ]
+   },
+   {
+    "name": "MBOKO               VICTORIA",
+    "roles": [
+     "AP"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=M26000017632",
+  "signal": "New Florida filing by a company based or formed in CANADA"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-04",
+  "company": "BARRICK MINING USA INC.",
+  "hq_city": "Canada M5J2S1",
+  "hq_country": "CANADA",
+  "us_entity_state": "FL",
+  "entity_type": "FORP",
+  "people": [
+   {
+    "name": "STRINGER            DANA",
+    "roles": [
+     "DS"
+    ]
+   },
+   {
+    "name": "RICH                DARIAN",
+    "roles": [
+     "DP"
+    ]
+   },
+   {
+    "name": "FERGUSON            JAMES",
+    "roles": [
+     "D"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000006804",
+  "signal": "New Florida filing by a company based or formed in CANADA"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-03",
+  "company": "JIT2 LLC",
+  "hq_city": "Dullingham",
+  "hq_country": "UK",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [
+   {
+    "name": "VILJOEN             JOHANNES      J",
+    "roles": [
+     "AMBR"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000555794",
+  "signal": "New Florida filing by a company based or formed in UK"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-03",
+  "company": "HARVESTA BIOTECH USA, INC.",
+  "hq_city": "On L3R 8C7",
+  "hq_country": "CA",
+  "us_entity_state": "FL",
+  "entity_type": "DOMP",
+  "people": [],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=P26000052355",
+  "signal": "New Florida filing by a company based or formed in CA"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-03",
+  "company": "MNF CAPITAL LLC",
+  "hq_city": "Ciudad De Mexico",
+  "hq_country": "MX",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [
+   {
+    "name": "RODAS MARTINEZ      LUIS RUBEN",
+    "roles": [
+     "AMBR"
+    ]
+   },
+   {
+    "name": "VAZQUEZ DEL RIO     MARIA DE LOS  A",
+    "roles": [
+     "AMBR"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000554439",
+  "signal": "New Florida filing by a company based or formed in MX"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-03",
+  "company": "Vesalius Longevity Labs Inc.",
+  "hq_city": "Vancouver",
+  "hq_country": "Canada",
+  "us_entity_state": "BRITISH COLUMBIA, CANADA",
+  "year_of_inc": "",
+  "industry": "Pharmaceuticals",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "30112500",
+  "sold_usd": "30112500",
+  "first_sale": "2026-10-28",
+  "phone": "604-307-8290",
+  "people": [
+   {
+    "name": "PRADEEP ALBERT",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "CHRISTOPHER COOPER",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "TIMMI STUMP",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "JAMES MCROBERTS",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "KEVIN SERRE",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "ROBERT MCCUE",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "JOEL LEONOFF",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "KEVIN MAYER",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "DAVID ADELMAN",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "LEE APPLBAUM",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2131865/000206075526000064/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-11-03",
+  "company": "Comcarde Limited",
+  "hq_city": "Edinburgh",
+  "hq_country": "United Kingdom",
+  "us_entity_state": "CO",
+  "entity_type": "FPC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268357129",
+  "signal": "Registered a FPC in Colorado, formed in United Kingdom"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-11-04",
+  "company": "Empty Slot Inc.",
+  "hq_city": "Denver",
+  "hq_country": "AB",
+  "us_entity_state": "CO",
+  "entity_type": "FPC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268362761",
+  "signal": "Registered a FPC in Colorado, formed in AB"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-11-04",
+  "company": "Circle Wellness Denver PropCo, LLC",
+  "hq_city": "Vancouver",
+  "hq_country": "CA",
+  "us_entity_state": "CO",
+  "entity_type": "DLLC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268363853",
+  "signal": "Registered a DLLC in Colorado, formed in CO"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-11-04",
+  "company": "Circle Wellness Denver HoldCo, LLC",
+  "hq_city": "Vancouver",
+  "hq_country": "CA",
+  "us_entity_state": "CO",
+  "entity_type": "DLLC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268364016",
+  "signal": "Registered a DLLC in Colorado, formed in CO"
+ }
+]
