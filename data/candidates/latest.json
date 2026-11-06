@@ -1,6 +1,69 @@
 [
  {
   "source": "Florida Sunbiz",
+  "signal_date": "2026-11-05",
+  "company": "DON DIMALINE CONSTRUCTION CORP.",
+  "hq_city": "Kemble, On N0H 1S0 Canada",
+  "hq_country": "CANADA",
+  "us_entity_state": "FL",
+  "entity_type": "FORP",
+  "people": [
+   {
+    "name": "DIMALINE            DON",
+    "roles": [
+     "PD"
+    ]
+   },
+   {
+    "name": "HURST               ANGELA",
+    "roles": [
+     "DST"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000006825",
+  "signal": "New Florida filing by a company based or formed in CANADA"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-05",
+  "company": "CREAGHAN FAMILY CAPITAL CORPORATION",
+  "hq_city": "Ontario, Canada M5B 2A6",
+  "hq_country": "CANADA",
+  "us_entity_state": "FL",
+  "entity_type": "FORP",
+  "people": [
+   {
+    "name": "CREAGHAN            PETER         F",
+    "roles": [
+     "DP"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000006866",
+  "signal": "New Florida filing by a company based or formed in CANADA"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-05",
+  "company": "BRULLEN USA LLC",
+  "hq_city": "New Milford",
+  "hq_country": "AU",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [
+   {
+    "name": "FISCHER             JUSTIN",
+    "roles": [
+     "MGR"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000559827",
+  "signal": "New Florida filing by a company based or formed in AU"
+ },
+ {
+  "source": "Florida Sunbiz",
   "signal_date": "2026-11-04",
   "company": "OBA TRIBE CORP.",
   "hq_city": "Ashdod, Israel 7752621",
@@ -87,151 +150,6 @@
   "signal": "New Florida filing by a company based or formed in CANADA"
  },
  {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-11-03",
-  "company": "JIT2 LLC",
-  "hq_city": "Dullingham",
-  "hq_country": "UK",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "VILJOEN             JOHANNES      J",
-    "roles": [
-     "AMBR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000555794",
-  "signal": "New Florida filing by a company based or formed in UK"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-11-03",
-  "company": "HARVESTA BIOTECH USA, INC.",
-  "hq_city": "On L3R 8C7",
-  "hq_country": "CA",
-  "us_entity_state": "FL",
-  "entity_type": "DOMP",
-  "people": [],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=P26000052355",
-  "signal": "New Florida filing by a company based or formed in CA"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-11-03",
-  "company": "MNF CAPITAL LLC",
-  "hq_city": "Ciudad De Mexico",
-  "hq_country": "MX",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "RODAS MARTINEZ      LUIS RUBEN",
-    "roles": [
-     "AMBR"
-    ]
-   },
-   {
-    "name": "VAZQUEZ DEL RIO     MARIA DE LOS  A",
-    "roles": [
-     "AMBR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000554439",
-  "signal": "New Florida filing by a company based or formed in MX"
- },
- {
-  "source": "SEC Form D",
-  "signal_date": "2026-11-03",
-  "company": "Vesalius Longevity Labs Inc.",
-  "hq_city": "Vancouver",
-  "hq_country": "Canada",
-  "us_entity_state": "BRITISH COLUMBIA, CANADA",
-  "year_of_inc": "",
-  "industry": "Pharmaceuticals",
-  "revenue_range": "Decline to Disclose",
-  "offering_usd": "30112500",
-  "sold_usd": "30112500",
-  "first_sale": "2026-10-28",
-  "phone": "604-307-8290",
-  "people": [
-   {
-    "name": "PRADEEP ALBERT",
-    "roles": [
-     "Executive Officer"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "CHRISTOPHER COOPER",
-    "roles": [
-     "Executive Officer"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "TIMMI STUMP",
-    "roles": [
-     "Executive Officer"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "JAMES MCROBERTS",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "KEVIN SERRE",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "ROBERT MCCUE",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "JOEL LEONOFF",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "KEVIN MAYER",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "DAVID ADELMAN",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "LEE APPLBAUM",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   }
-  ],
-  "filing_url": "https://www.sec.gov/Archives/edgar/data/2131865/000206075526000064/",
-  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
- },
- {
   "source": "Colorado business registry",
   "signal_date": "2026-11-03",
   "company": "Comcarde Limited",
@@ -277,6 +195,18 @@
   "entity_type": "DLLC",
   "people": [],
   "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268364016",
+  "signal": "Registered a DLLC in Colorado, formed in CO"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-11-05",
+  "company": "888 AUTO LLC",
+  "hq_city": "Sherwood Park",
+  "hq_country": "CA",
+  "us_entity_state": "CO",
+  "entity_type": "DLLC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268368274",
   "signal": "Registered a DLLC in Colorado, formed in CO"
  }
 ]
