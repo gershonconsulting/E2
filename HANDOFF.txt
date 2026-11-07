@@ -1,0 +1,102 @@
+================================================================
+HANDOFF.txt  -  E2
+Written by: Claude (nightly run) - token-limit handoff protocol
+Date: 2026-10-27
+Reason: repo had no HANDOFF.txt. Another AI can continue this work
+        from this file alone.
+================================================================
+
+0. WHO YOU ARE READING THIS
+----------------------------------------------------------------
+You are an AI assistant (ChatGPT, Gemini, Copilot, or another Claude
+session) taking over work on this repository for Olivier Attia,
+founder / CTO of Gershon Consulting LLC.
+
+Read the MASTER HANDOFF first:
+  github.com/gershonconsulting/memory -> HANDOFF.txt
+It carries the full operating rules, the technical defaults, and the
+index of all repos.
+
+CRITICAL OPERATING RULES - do not break these:
+  * Olivier does NOT use a terminal, CLI, git or PowerShell. NEVER
+    give him commands, scripts, .bat files or 'just run this' steps.
+  * He does NOT upload, download, move or save files. If a file has
+    to get somewhere, YOU find the route and execute it.
+  * End every actionable reply with:
+      GREEN CHECK = ready for him to test (+ the link)
+      RED CROSS   = something still to do (+ exactly 3 options he can
+                    actually action - never a CLI step)
+  * Executors: Ariel = code and repo work. Charles = Chrome extension
+    and web admin panels (Cloudflare, GitHub settings, DNS, publishing).
+
+1. WHAT THIS REPO IS
+----------------------------------------------------------------
+Product / site name : E2 - Florida E-2 visa lead pipeline
+                      (master index lists e2.gershoncrm.com; no web UI here)
+Live URL            : none in the repo
+What it does        : Downloads the daily Florida Dept. of State corporate
+                      filings file over SFTP, parses fixed-width records
+                      (field_spec.py), scores them for E-2 fit (scoring.py),
+                      writes ranked CSVs to out/, and emails a daily report
+                      (mailer.py, via Resend) "Daily Report E2 Companies for
+                      BotDog Campaign".
+Who uses it         : Aina Rama (MAIL_TO default) and the Gershon outbound
+                      team.
+
+2. STACK AND DEPLOY ROUTE
+----------------------------------------------------------------
+Language / framework: Python 3 (paramiko, csv), shell cron wrapper
+Hosting             : a server with the code at /opt/e2 (run_daily.sh); the
+                      server is not identified in the repo
+DNS / registrar     : n/a
+Deploy method       : manual copy to /opt/e2; cron: 0 8 * * 1-6
+                      /opt/e2/run_daily.sh (Mon-Sat 08:00 server time). No
+                      GitHub Actions workflow.
+Default branch      : main
+How to ship a change: merge to main, then have Charles/Ariel update /opt/e2.
+Secrets / env vars  : RESEND_API_KEY, MAIL_FROM, MAIL_TO (see .env, read
+                      from /opt/e2/.env; values in 1Password)
+
+3. RECENTLY DONE  [DONE]
+----------------------------------------------------------------
+- 2026-06-15: Florida E-2 pipeline implemented (download, parse, score,
+  ranked CSVs, daily mailer).
+
+4. PENDING  [TODO]
+----------------------------------------------------------------
+- run_daily.sh sends in DRY-RUN by default; switch the mailer line to
+  --send to go live (confirm with Olivier first).
+- MAIL_FROM defaults to a bare onboarding@resend.dev; should be
+  "GC E2 Report <verified address>" per the GC sender rule.
+
+5. MISSING / NOT BUILT YET
+----------------------------------------------------------------
+- No README, no .env.example in the repo, no tests, no web UI.
+
+6. KNOWN BUGS / NEEDS FIXING
+----------------------------------------------------------------
+- florida_pipeline.py hard-codes the state's public SFTP login (user and
+  password in source). It is a published public-access credential, but
+  move it to env vars anyway.
+- run_daily.sh and mailer.py have broken indentation (copy/paste damage);
+  bash/python still parse today but clean up before editing.
+
+7. NEXT ACTION - START HERE
+----------------------------------------------------------------
+The single most valuable next step is:
+  -> Ask Olivier whether the E-2 daily report should go live; if yes,
+     fix MAIL_FROM to a GC-prefixed verified sender and switch the mailer
+     to --send.
+
+8. GOTCHAS / HARD-WON LESSONS
+----------------------------------------------------------------
+- Output goes to /opt/e2/out; run.log there is the only log.
+
+9. CONTACT / ESCALATION
+----------------------------------------------------------------
+Olivier Attia - oattia@gmail.com
+Report mailbox - report@gershonconsulting.com
+
+================================================================
+END OF HANDOFF
+================================================================
