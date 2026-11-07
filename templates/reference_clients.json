@@ -1,0 +1,53 @@
+{
+ "_rule": "Only clients shown publicly on gershonconsulting.com. Name ONE reference client per email: same sector first, then same country or region. Never quote numbers or results for a client. Never use a client from the target's own direct competitors. Never use clients from China, India, Vietnam, UAE, South Africa or Brazil.",
+ "biotech_life_sciences": [
+  {"name": "MAbSilico", "country": "France", "line": "MAbSilico, a French AI drug-discovery company"},
+  {"name": "Valos", "country": "Italy", "line": "Valos, an Italian biotech company"},
+  {"name": "Enzymicals AG", "country": "Germany", "line": "Enzymicals, a German biocatalysis company"},
+  {"name": "Amphasys", "country": "Switzerland", "line": "Amphasys, a Swiss life-science instruments company"},
+  {"name": "Meteor Biotech", "country": "South Korea", "line": "Meteor Biotech, a Korean biotech company"},
+  {"name": "PhiTech Bioinformatics", "country": "Turkey", "line": "PhiTech Bioinformatics, a Turkish bioinformatics company"},
+  {"name": "Sanobiotec", "country": "Lithuania", "line": "Sanobiotec, a Lithuanian biotech company"}
+ ],
+ "medtech_health_ai": [
+  {"name": "Milvue", "country": "France", "line": "Milvue, a French medical-imaging AI company"},
+  {"name": "MAbSilico", "country": "France", "line": "MAbSilico, a French AI drug-discovery company"}
+ ],
+ "cybersecurity_it": [
+  {"name": "Wallix", "country": "France", "line": "Wallix, the French cybersecurity company"},
+  {"name": "Centreon", "country": "France", "line": "Centreon, the French IT-monitoring company"},
+  {"name": "Certhis", "country": "Israel", "line": "Certhis, an Israeli tech company"},
+  {"name": "Hot Spring IT", "country": "United Kingdom", "line": "Hot Spring IT, a UK IT company"}
+ ],
+ "saas_ai_marketing_tech": [
+  {"name": "ContentSquare", "country": "France", "line": "ContentSquare, the French digital-experience analytics company"},
+  {"name": "WeWard", "country": "France", "line": "WeWard, the French consumer app"},
+  {"name": "Proximis", "country": "France", "line": "Proximis, a French retail-software company"},
+  {"name": "Binhex", "country": "Spain", "line": "Binhex, a Spanish software company"}
+ ],
+ "industrial_hardware_energy": [
+  {"name": "Urban Factory", "country": "France", "line": "Urban Factory, a European IT-accessories maker"},
+  {"name": "Ducrocq Engineering", "country": "France", "line": "Ducrocq Engineering, a French engineering company"},
+  {"name": "Sunna Design", "country": "France", "line": "Sunna Design, the French solar-lighting company"},
+  {"name": "DAB Embedded", "country": "Belgium", "line": "DAB Embedded, a Belgian embedded-systems company"}
+ ],
+ "food_consumer": [
+  {"name": "Bagelstein", "country": "France", "line": "Bagelstein, the French food chain"},
+  {"name": "Percko", "country": "France", "line": "Percko, the French consumer-health brand"},
+  {"name": "Monbana", "country": "France", "line": "Monbana, the French chocolate maker"}
+ ],
+ "software_services": [
+  {"name": "Parallel Devs", "country": "Costa Rica", "line": "Parallel Devs, a Costa Rican software firm"},
+  {"name": "Streamside", "country": "Belgium", "line": "Streamside, a Belgian company"}
+ ],
+ "marketing_retail_services": [
+  {"name": "Altavia", "country": "Canada", "line": "Altavia North America, the retail-marketing group"}
+ ],
+ "finance_investment": [
+  {"name": "Finance Montréal", "country": "Canada", "line": "Finance Montréal, Quebec's financial-sector cluster"}
+ ],
+ "default": [
+  {"name": "MAbSilico", "country": "France", "line": "MAbSilico, a French AI drug-discovery company"},
+  {"name": "Wallix", "country": "France", "line": "Wallix, the French cybersecurity company"}
+ ]
+}

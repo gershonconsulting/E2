@@ -1,0 +1,47 @@
+name: E2 visa signals (daily)
+
+# Collects new US set-ups by foreign companies (the prerequisite for E-2 and L-1 visas)
+# from SEC Form D, Florida Sunbiz and Colorado, and saves them to
+# data/candidates/latest.json for Claude's daily E2 task (#08) to qualify and contact.
+
+on:
+  schedule:
+    - cron: "17 10 * * 1-5"   # 06:17 New York, Mon-Fri (before task #08 at 08:47)
+  push:
+    branches: [main]
+    paths: ["visa_signals/**", ".github/workflows/visa-signals.yml"]
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Business days to look back"
+        default: "2"
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install paramiko
+      - name: Collect signals
+        run: |
+          mkdir -p data/candidates
+          D=$(date -u +%Y-%m-%d)
+          python3 visa_signals/signals.py --days "${{ github.event.inputs.days || (github.event_name == 'push' && '5') || '2' }}" \
+            --out "data/candidates/$D.json" 2> "data/candidates/$D.log"
+          cp "data/candidates/$D.json" data/candidates/latest.json
+          cp "data/candidates/$D.log" data/candidates/latest.log
+          cat data/candidates/latest.log
+      - name: Save
+        run: |
+          git config user.name "gershon-e2-bot"
+          git config user.email "olivier@gershonconsulting.com"
+          git add data/candidates
+          git commit -m "E2 visa signals $(date -u +%Y-%m-%d)" || echo "nothing new"
+          git push

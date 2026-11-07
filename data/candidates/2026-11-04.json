@@ -1,0 +1,335 @@
+[
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-03",
+  "company": "JIT2 LLC",
+  "hq_city": "Dullingham",
+  "hq_country": "UK",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [
+   {
+    "name": "VILJOEN             JOHANNES      J",
+    "roles": [
+     "AMBR"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000555794",
+  "signal": "New Florida filing by a company based or formed in UK"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-03",
+  "company": "HARVESTA BIOTECH USA, INC.",
+  "hq_city": "On L3R 8C7",
+  "hq_country": "CA",
+  "us_entity_state": "FL",
+  "entity_type": "DOMP",
+  "people": [],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=P26000052355",
+  "signal": "New Florida filing by a company based or formed in CA"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-03",
+  "company": "MNF CAPITAL LLC",
+  "hq_city": "Ciudad De Mexico",
+  "hq_country": "MX",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [
+   {
+    "name": "RODAS MARTINEZ      LUIS RUBEN",
+    "roles": [
+     "AMBR"
+    ]
+   },
+   {
+    "name": "VAZQUEZ DEL RIO     MARIA DE LOS  A",
+    "roles": [
+     "AMBR"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000554439",
+  "signal": "New Florida filing by a company based or formed in MX"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-03",
+  "company": "Vesalius Longevity Labs Inc.",
+  "hq_city": "Vancouver",
+  "hq_country": "Canada",
+  "us_entity_state": "BRITISH COLUMBIA, CANADA",
+  "year_of_inc": "",
+  "industry": "Pharmaceuticals",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "30112500",
+  "sold_usd": "30112500",
+  "first_sale": "2026-10-28",
+  "phone": "604-307-8290",
+  "people": [
+   {
+    "name": "PRADEEP ALBERT",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "CHRISTOPHER COOPER",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "TIMMI STUMP",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "JAMES MCROBERTS",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "KEVIN SERRE",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "ROBERT MCCUE",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "JOEL LEONOFF",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "KEVIN MAYER",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "DAVID ADELMAN",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "LEE APPLBAUM",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2131865/000206075526000064/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-02",
+  "company": "Blackshark.ai Inc.",
+  "hq_city": "Graz",
+  "hq_country": "Austria",
+  "us_entity_state": "DELAWARE",
+  "year_of_inc": "2026",
+  "industry": "Other Technology",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "29945244",
+  "sold_usd": "25145250",
+  "first_sale": "2026-10-16",
+  "phone": "436764067419",
+  "people": [
+   {
+    "name": "Michael Putz",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "PT Ungvichian",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Lisa Chai",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2163157/000216315726000001/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-02",
+  "company": "EVIA Life Sciences Inc.",
+  "hq_city": "Tokyo",
+  "hq_country": "Japan",
+  "us_entity_state": "DELAWARE",
+  "year_of_inc": "",
+  "industry": "Biotechnology",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "5498154",
+  "sold_usd": "700002",
+  "first_sale": "2026-10-23",
+  "phone": "81 80 2105 3464",
+  "people": [
+   {
+    "name": "Kosuke Takishima",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Joshua Schwab",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Michael Kim",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Takahiro Ochiya",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2162667/000216266726000001/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-02",
+  "company": "Phytokana Ingredients Inc.",
+  "hq_city": "Calgary",
+  "hq_country": "Canada",
+  "us_entity_state": "ALBERTA, CANADA",
+  "year_of_inc": "2024",
+  "industry": "Other",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "276502",
+  "sold_usd": "276502",
+  "first_sale": "2026-07-10",
+  "phone": "403-816-9021",
+  "people": [
+   {
+    "name": "Martin Vogel",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Christopher Theal",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Paul Hemsley",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Scott Exner",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Parisa Fallahi",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Vincent Chahley",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Tyler Arnott",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Drew Sharp",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2154295/000215429526000001/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-10-30",
+  "company": "Avenue Living U.S. Operating LP No. 23",
+  "hq_city": "Calgary",
+  "hq_country": "CA",
+  "us_entity_state": "CO",
+  "entity_type": "FLP",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268342860",
+  "signal": "Registered a FLP in Colorado, formed in DE"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-11-03",
+  "company": "Comcarde Limited",
+  "hq_city": "Edinburgh",
+  "hq_country": "United Kingdom",
+  "us_entity_state": "CO",
+  "entity_type": "FPC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268357129",
+  "signal": "Registered a FPC in Colorado, formed in United Kingdom"
+ }
+]
