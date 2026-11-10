@@ -1,6 +1,25 @@
 [
  {
   "source": "Florida Sunbiz",
+  "signal_date": "2026-11-09",
+  "company": "NOVA 8 STUDIO LLC",
+  "hq_city": "Poggio Di Venaco",
+  "hq_country": "FR",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [
+   {
+    "name": "BONA                STELLA",
+    "roles": [
+     "AMBR"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000563426",
+  "signal": "New Florida filing by a company based or formed in FR"
+ },
+ {
+  "source": "Florida Sunbiz",
   "signal_date": "2026-11-06",
   "company": "KEVIN RATTLE L.L.C.",
   "hq_city": "Lake Mary",
@@ -36,69 +55,6 @@
   ],
   "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000560906",
   "signal": "New Florida filing by a company based or formed in BA"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-11-05",
-  "company": "DON DIMALINE CONSTRUCTION CORP.",
-  "hq_city": "Kemble, On N0H 1S0 Canada",
-  "hq_country": "CANADA",
-  "us_entity_state": "FL",
-  "entity_type": "FORP",
-  "people": [
-   {
-    "name": "DIMALINE            DON",
-    "roles": [
-     "PD"
-    ]
-   },
-   {
-    "name": "HURST               ANGELA",
-    "roles": [
-     "DST"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000006825",
-  "signal": "New Florida filing by a company based or formed in CANADA"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-11-05",
-  "company": "CREAGHAN FAMILY CAPITAL CORPORATION",
-  "hq_city": "Ontario, Canada M5B 2A6",
-  "hq_country": "CANADA",
-  "us_entity_state": "FL",
-  "entity_type": "FORP",
-  "people": [
-   {
-    "name": "CREAGHAN            PETER         F",
-    "roles": [
-     "DP"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000006866",
-  "signal": "New Florida filing by a company based or formed in CANADA"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-11-05",
-  "company": "BRULLEN USA LLC",
-  "hq_city": "New Milford",
-  "hq_country": "AU",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "FISCHER             JUSTIN",
-    "roles": [
-     "MGR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000559827",
-  "signal": "New Florida filing by a company based or formed in AU"
  },
  {
   "source": "SEC Form D",
@@ -222,42 +178,6 @@
  },
  {
   "source": "Colorado business registry",
-  "signal_date": "2026-11-04",
-  "company": "Empty Slot Inc.",
-  "hq_city": "Denver",
-  "hq_country": "AB",
-  "us_entity_state": "CO",
-  "entity_type": "FPC",
-  "people": [],
-  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268362761",
-  "signal": "Registered a FPC in Colorado, formed in AB"
- },
- {
-  "source": "Colorado business registry",
-  "signal_date": "2026-11-04",
-  "company": "Circle Wellness Denver PropCo, LLC",
-  "hq_city": "Vancouver",
-  "hq_country": "CA",
-  "us_entity_state": "CO",
-  "entity_type": "DLLC",
-  "people": [],
-  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268363853",
-  "signal": "Registered a DLLC in Colorado, formed in CO"
- },
- {
-  "source": "Colorado business registry",
-  "signal_date": "2026-11-04",
-  "company": "Circle Wellness Denver HoldCo, LLC",
-  "hq_city": "Vancouver",
-  "hq_country": "CA",
-  "us_entity_state": "CO",
-  "entity_type": "DLLC",
-  "people": [],
-  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268364016",
-  "signal": "Registered a DLLC in Colorado, formed in CO"
- },
- {
-  "source": "Colorado business registry",
   "signal_date": "2026-11-05",
   "company": "888 AUTO LLC",
   "hq_city": "Sherwood Park",
@@ -279,5 +199,29 @@
   "people": [],
   "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268369752",
   "signal": "Registered a FPC in Colorado, formed in DE"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-11-09",
+  "company": "LEGENDS HOSPITALITY ESPANA SL",
+  "hq_city": "Madrid",
+  "hq_country": "Spain",
+  "us_entity_state": "CO",
+  "entity_type": "FLLC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268375739",
+  "signal": "Registered a FLLC in Colorado, formed in Spain"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-11-09",
+  "company": "Sinoma Mexico Engineering S.A. de C.V.",
+  "hq_city": "Ciudad De Mexico",
+  "hq_country": "Mexico",
+  "us_entity_state": "CO",
+  "entity_type": "FPC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268376128",
+  "signal": "Registered a FPC in Colorado, formed in Mexico"
  }
 ]

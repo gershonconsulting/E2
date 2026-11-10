@@ -1,0 +1,227 @@
+[
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-09",
+  "company": "NOVA 8 STUDIO LLC",
+  "hq_city": "Poggio Di Venaco",
+  "hq_country": "FR",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [
+   {
+    "name": "BONA                STELLA",
+    "roles": [
+     "AMBR"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000563426",
+  "signal": "New Florida filing by a company based or formed in FR"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-06",
+  "company": "KEVIN RATTLE L.L.C.",
+  "hq_city": "Lake Mary",
+  "hq_country": "SE",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [
+   {
+    "name": "RATTLE              KEVIN",
+    "roles": [
+     "MGR"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000560145",
+  "signal": "New Florida filing by a company based or formed in SE"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-06",
+  "company": "LEOC LLC",
+  "hq_city": "P.O. Box N-1576 West Bay St",
+  "hq_country": "BA",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [
+   {
+    "name": "JAVIER TAMES ANEIRA",
+    "roles": [
+     "MGR"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000560906",
+  "signal": "New Florida filing by a company based or formed in BA"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-06",
+  "company": "Squawker Inc",
+  "hq_city": "Totnes",
+  "hq_country": "United Kingdom",
+  "us_entity_state": "DELAWARE",
+  "year_of_inc": "2026",
+  "industry": "Other Technology",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "85000",
+  "sold_usd": "55000",
+  "first_sale": "2026-06-16",
+  "phone": "00447931619077",
+  "people": [
+   {
+    "name": "GORDON BRIDGE",
+    "roles": [
+     "Director",
+     "Promoter"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "NICHOLAS LAWTON",
+    "roles": [
+     "Executive Officer",
+     "Director",
+     "Promoter"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2164159/000216415926000001/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-06",
+  "company": "Vimy Pharmaceuticals Inc.",
+  "hq_city": "Toronto",
+  "hq_country": "Canada",
+  "us_entity_state": "ONTARIO, CANADA",
+  "year_of_inc": "2024",
+  "industry": "Pharmaceuticals",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "278174",
+  "sold_usd": "278174",
+  "first_sale": "2026-10-22",
+  "phone": "416-254-4774",
+  "people": [
+   {
+    "name": "David Suchon",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": "Chief Executive Officer"
+   },
+   {
+    "name": "Farris Smith",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": "President and Chair"
+   },
+   {
+    "name": "Darryl Firsten",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Riccardo Trecroce",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Christopher Burkett",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2159983/000149315226050479/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-06",
+  "company": "Vyse Air GmbH",
+  "hq_city": "Munich",
+  "hq_country": "Germany",
+  "us_entity_state": "GERMANY",
+  "year_of_inc": "2023",
+  "industry": "Other Technology",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "134688",
+  "sold_usd": "121219",
+  "first_sale": "2026-10-27",
+  "phone": "4915167822955",
+  "people": [
+   {
+    "name": "Venkata Sravan Akkinapalli",
+    "roles": [
+     "Executive Officer",
+     "Director",
+     "Promoter"
+    ],
+    "clarification": "Managing Director (Geschaeftsfuehrer)"
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2149658/000214965826000003/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-11-05",
+  "company": "888 AUTO LLC",
+  "hq_city": "Sherwood Park",
+  "hq_country": "CA",
+  "us_entity_state": "CO",
+  "entity_type": "DLLC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268368274",
+  "signal": "Registered a DLLC in Colorado, formed in CO"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-11-06",
+  "company": "RAYLO INC.",
+  "hq_city": "London",
+  "hq_country": "GB",
+  "us_entity_state": "CO",
+  "entity_type": "FPC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268369752",
+  "signal": "Registered a FPC in Colorado, formed in DE"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-11-09",
+  "company": "LEGENDS HOSPITALITY ESPANA SL",
+  "hq_city": "Madrid",
+  "hq_country": "Spain",
+  "us_entity_state": "CO",
+  "entity_type": "FLLC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268375739",
+  "signal": "Registered a FLLC in Colorado, formed in Spain"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-11-09",
+  "company": "Sinoma Mexico Engineering S.A. de C.V.",
+  "hq_city": "Ciudad De Mexico",
+  "hq_country": "Mexico",
+  "us_entity_state": "CO",
+  "entity_type": "FPC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268376128",
+  "signal": "Registered a FPC in Colorado, formed in Mexico"
+ }
+]
