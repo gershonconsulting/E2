@@ -1,0 +1,168 @@
+[
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-10",
+  "company": "WEB DEV HEROES, INC.",
+  "hq_city": "Bromborough, Wirral",
+  "hq_country": "UK",
+  "us_entity_state": "FL",
+  "entity_type": "FORP",
+  "people": [
+   {
+    "name": "DANKS               CHRISTOPHER",
+    "roles": [
+     "PD"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000006924",
+  "signal": "New Florida filing by a company based or formed in UK"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-10",
+  "company": "CREATIVE VISUAL BRANDING INC",
+  "hq_city": "London",
+  "hq_country": "UK",
+  "us_entity_state": "FL",
+  "entity_type": "DOMP",
+  "people": [
+   {
+    "name": "ANDREITSUK          ANDREI         MR",
+    "roles": [
+     "D"
+    ]
+   },
+   {
+    "name": "TSAGIN              SEMJON         MR",
+    "roles": [
+     "D"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=P26000052896",
+  "signal": "New Florida filing by a company based or formed in UK"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-10",
+  "company": "103 1ST STREET APT. 207, LLC",
+  "hq_city": "Las Condes, Santiago",
+  "hq_country": "CL",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [
+   {
+    "name": "CAPE HORN LLC",
+    "roles": [
+     "MGR"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000564949",
+  "signal": "New Florida filing by a company based or formed in CL"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-09",
+  "company": "NOVA 8 STUDIO LLC",
+  "hq_city": "Poggio Di Venaco",
+  "hq_country": "FR",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [
+   {
+    "name": "BONA                STELLA",
+    "roles": [
+     "AMBR"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000563426",
+  "signal": "New Florida filing by a company based or formed in FR"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-10",
+  "company": "Nextech3D.AI Corp.",
+  "hq_city": "Toronto",
+  "hq_country": "Canada",
+  "us_entity_state": "BRITISH COLUMBIA, CANADA",
+  "year_of_inc": "",
+  "industry": "Other",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "99204",
+  "sold_usd": "99204",
+  "first_sale": "2026-11-06",
+  "phone": "631 6556733",
+  "people": [
+   {
+    "name": "Evan Gappelberg",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Anum Waqas",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Peter Bloch",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Anthony Pizzonia",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/1737270/000106299326005859/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-11-06",
+  "company": "RAYLO INC.",
+  "hq_city": "London",
+  "hq_country": "GB",
+  "us_entity_state": "CO",
+  "entity_type": "FPC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268369752",
+  "signal": "Registered a FPC in Colorado, formed in DE"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-11-09",
+  "company": "LEGENDS HOSPITALITY ESPANA SL",
+  "hq_city": "Madrid",
+  "hq_country": "Spain",
+  "us_entity_state": "CO",
+  "entity_type": "FLLC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268375739",
+  "signal": "Registered a FLLC in Colorado, formed in Spain"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-11-09",
+  "company": "Sinoma Mexico Engineering S.A. de C.V.",
+  "hq_city": "Ciudad De Mexico",
+  "hq_country": "Mexico",
+  "us_entity_state": "CO",
+  "entity_type": "FPC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268376128",
+  "signal": "Registered a FPC in Colorado, formed in Mexico"
+ }
+]
