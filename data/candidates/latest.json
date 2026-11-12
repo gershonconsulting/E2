@@ -63,25 +63,6 @@
   "signal": "New Florida filing by a company based or formed in CL"
  },
  {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-11-09",
-  "company": "NOVA 8 STUDIO LLC",
-  "hq_city": "Poggio Di Venaco",
-  "hq_country": "FR",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "BONA                STELLA",
-    "roles": [
-     "AMBR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000563426",
-  "signal": "New Florida filing by a company based or formed in FR"
- },
- {
   "source": "SEC Form D",
   "signal_date": "2026-11-10",
   "company": "Nextech3D.AI Corp.",
@@ -128,18 +109,6 @@
   ],
   "filing_url": "https://www.sec.gov/Archives/edgar/data/1737270/000106299326005859/",
   "signal": "Filed SEC Form D for its US entity (raising from US investors)"
- },
- {
-  "source": "Colorado business registry",
-  "signal_date": "2026-11-06",
-  "company": "RAYLO INC.",
-  "hq_city": "London",
-  "hq_country": "GB",
-  "us_entity_state": "CO",
-  "entity_type": "FPC",
-  "people": [],
-  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268369752",
-  "signal": "Registered a FPC in Colorado, formed in DE"
  },
  {
   "source": "Colorado business registry",
