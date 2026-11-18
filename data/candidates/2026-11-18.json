@@ -1,0 +1,225 @@
+[
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-17",
+  "company": "FELVERA GLOBAL LLC",
+  "hq_city": "Menemen , Izmir",
+  "hq_country": "TR",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [
+   {
+    "name": "AKER                EMRAH",
+    "roles": [
+     "MGR"
+    ]
+   },
+   {
+    "name": "AKER                MEHMET",
+    "roles": [
+     "AMBR"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000575766",
+  "signal": "New Florida filing by a company based or formed in TR"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-17",
+  "company": "CROWNHILL (USA) INC.",
+  "hq_city": "Brampton, On L6Y 5K7 Canada",
+  "hq_country": "CANADA",
+  "us_entity_state": "FL",
+  "entity_type": "FORP",
+  "people": [
+   {
+    "name": "LOTA                ASHWINDER",
+    "roles": [
+     "P"
+    ]
+   },
+   {
+    "name": "LOTA                SAVRAJ",
+    "roles": [
+     "ST"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000007138",
+  "signal": "New Florida filing by a company based or formed in CANADA"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-16",
+  "company": "TERMINUS INTELLIGENCE GROUP, LLC",
+  "hq_city": "Newport-On-Tay",
+  "hq_country": "GB",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [
+   {
+    "name": "BOGANI              RONALD",
+    "roles": [
+     "MGR"
+    ]
+   },
+   {
+    "name": "MORRISON            IEVA",
+    "roles": [
+     "MGR"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000573740",
+  "signal": "New Florida filing by a company based or formed in GB"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-16",
+  "company": "103 1ST STREET APT. 210. LLC",
+  "hq_city": "Las Condes",
+  "hq_country": "CH",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [
+   {
+    "name": "CAPE HORN, LLC",
+    "roles": [
+     "MGR"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000573192",
+  "signal": "New Florida filing by a company based or formed in CH"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-16",
+  "company": "115 1ST STREET APT. 105, LLC",
+  "hq_city": "Las Condes",
+  "hq_country": "CH",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [
+   {
+    "name": "CAPE HORN, LLC",
+    "roles": [
+     "MGR"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000573208",
+  "signal": "New Florida filing by a company based or formed in CH"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-16",
+  "company": "Araico Corp",
+  "hq_city": "Asuncion",
+  "hq_country": "Paraguay",
+  "us_entity_state": "DELAWARE",
+  "year_of_inc": "2026",
+  "industry": "Other Technology",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "54218182",
+  "sold_usd": "36898814",
+  "first_sale": "2026-10-29",
+  "phone": "800-221-0102",
+  "people": [
+   {
+    "name": "Alejandro Zuccolillo Quevedo",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Nicolas Arrellaga",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Matthew Leavitt",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2164789/000216478926000001/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-16",
+  "company": "Stamp Free Ltd",
+  "hq_city": "Edinburgh",
+  "hq_country": "United Kingdom",
+  "us_entity_state": "UNITED KINGDOM",
+  "year_of_inc": "",
+  "industry": "Other Technology",
+  "revenue_range": "No Revenues",
+  "offering_usd": "32918",
+  "sold_usd": "32918",
+  "first_sale": "2026-11-16",
+  "phone": "011447979514840",
+  "people": [
+   {
+    "name": "Hugh Craigie Halkett",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Richard Beattie",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/1844067/000184406726000001/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-11-13",
+  "company": "Beells Limited",
+  "hq_city": "Birkirkara",
+  "hq_country": "Malta",
+  "us_entity_state": "CO",
+  "entity_type": "FPC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268388550",
+  "signal": "Registered a FPC in Colorado, formed in Malta"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-11-16",
+  "company": "BENEVITY, INC.",
+  "hq_city": "Denver",
+  "hq_country": "BC",
+  "us_entity_state": "CO",
+  "entity_type": "FPC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268392176",
+  "signal": "Registered a FPC in Colorado, formed in BC"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-11-17",
+  "company": "Sutherland Digital Philippines Inc.",
+  "hq_city": "Palayan City",
+  "hq_country": "Philippines",
+  "us_entity_state": "CO",
+  "entity_type": "FPC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268395097",
+  "signal": "Registered a FPC in Colorado, formed in Philippines"
+ }
+]

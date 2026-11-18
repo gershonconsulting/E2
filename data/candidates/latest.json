@@ -1,6 +1,56 @@
 [
  {
   "source": "Florida Sunbiz",
+  "signal_date": "2026-11-17",
+  "company": "FELVERA GLOBAL LLC",
+  "hq_city": "Menemen , Izmir",
+  "hq_country": "TR",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [
+   {
+    "name": "AKER                EMRAH",
+    "roles": [
+     "MGR"
+    ]
+   },
+   {
+    "name": "AKER                MEHMET",
+    "roles": [
+     "AMBR"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000575766",
+  "signal": "New Florida filing by a company based or formed in TR"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-17",
+  "company": "CROWNHILL (USA) INC.",
+  "hq_city": "Brampton, On L6Y 5K7 Canada",
+  "hq_country": "CANADA",
+  "us_entity_state": "FL",
+  "entity_type": "FORP",
+  "people": [
+   {
+    "name": "LOTA                ASHWINDER",
+    "roles": [
+     "P"
+    ]
+   },
+   {
+    "name": "LOTA                SAVRAJ",
+    "roles": [
+     "ST"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000007138",
+  "signal": "New Florida filing by a company based or formed in CANADA"
+ },
+ {
+  "source": "Florida Sunbiz",
   "signal_date": "2026-11-16",
   "company": "TERMINUS INTELLIGENCE GROUP, LLC",
   "hq_city": "Newport-On-Tay",
@@ -61,25 +111,6 @@
   ],
   "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000573208",
   "signal": "New Florida filing by a company based or formed in CH"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-11-13",
-  "company": "CAPE HORN LIQUIDITY, LLC",
-  "hq_city": "Chile",
-  "hq_country": "CHILE",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [
-   {
-    "name": "CAPE HORN, LLC",
-    "roles": [
-     "MGR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000567121",
-  "signal": "New Florida filing by a company based or formed in CHILE"
  },
  {
   "source": "SEC Form D",
@@ -156,78 +187,6 @@
   "signal": "Filed SEC Form D for its US entity (raising from US investors)"
  },
  {
-  "source": "SEC Form D",
-  "signal_date": "2026-11-13",
-  "company": "Nextech3D.AI Corp.",
-  "hq_city": "Toronto",
-  "hq_country": "Canada",
-  "us_entity_state": "BRITISH COLUMBIA, CANADA",
-  "year_of_inc": "",
-  "industry": "Other",
-  "revenue_range": "Decline to Disclose",
-  "offering_usd": "698068",
-  "sold_usd": "322185",
-  "first_sale": "2026-11-09",
-  "phone": "631 6556733",
-  "people": [
-   {
-    "name": "Evan Gappelberg",
-    "roles": [
-     "Executive Officer",
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Anum Waqas",
-    "roles": [
-     "Executive Officer"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Peter Bloch",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Anthony Pizzonia",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   }
-  ],
-  "filing_url": "https://www.sec.gov/Archives/edgar/data/1737270/000106299326005992/",
-  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
- },
- {
-  "source": "Colorado business registry",
-  "signal_date": "2026-11-12",
-  "company": "6025 Enterprise LLC",
-  "hq_city": "North Miami Beach",
-  "hq_country": "CO",
-  "us_entity_state": "CO",
-  "entity_type": "DLLC",
-  "people": [],
-  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268385265",
-  "signal": "Registered a DLLC in Colorado, formed in CO"
- },
- {
-  "source": "Colorado business registry",
-  "signal_date": "2026-11-12",
-  "company": "NIRLAB Forensics LLC",
-  "hq_city": "Eclepens",
-  "hq_country": "Switzerland",
-  "us_entity_state": "CO",
-  "entity_type": "FLLC",
-  "people": [],
-  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268386112",
-  "signal": "Registered a FLLC in Colorado, formed in Switzerland"
- },
- {
   "source": "Colorado business registry",
   "signal_date": "2026-11-13",
   "company": "Beells Limited",
@@ -250,5 +209,17 @@
   "people": [],
   "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268392176",
   "signal": "Registered a FPC in Colorado, formed in BC"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-11-17",
+  "company": "Sutherland Digital Philippines Inc.",
+  "hq_city": "Palayan City",
+  "hq_country": "Philippines",
+  "us_entity_state": "CO",
+  "entity_type": "FPC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268395097",
+  "signal": "Registered a FPC in Colorado, formed in Philippines"
  }
 ]
