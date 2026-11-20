@@ -1,6 +1,106 @@
 [
  {
   "source": "Florida Sunbiz",
+  "signal_date": "2026-11-19",
+  "company": "COVENANT WALLCOVEERRING LLC",
+  "hq_city": "Plant City Fl",
+  "hq_country": "TURKEY",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000580692",
+  "signal": "New Florida filing by a company based or formed in TURKEY"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-19",
+  "company": "MICH IBANEZ LLC",
+  "hq_city": "Benito Juarez",
+  "hq_country": "MX",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [
+   {
+    "name": "MICHELL IBANEZ CELIS",
+    "roles": [
+     "MGR"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000580676",
+  "signal": "New Florida filing by a company based or formed in MX"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-19",
+  "company": "NACIONES10 CORP",
+  "hq_city": "Quayaquil",
+  "hq_country": "EC",
+  "us_entity_state": "FL",
+  "entity_type": "DOMP",
+  "people": [
+   {
+    "name": "MARIA MERCEDES CEPRIAN",
+    "roles": [
+     "D"
+    ]
+   },
+   {
+    "name": "JOSE VICENTE MOQUERA",
+    "roles": [
+     "D"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=P26000054477",
+  "signal": "New Florida filing by a company based or formed in EC"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-19",
+  "company": "VITRAFY LIFE SCIENCES, INC.",
+  "hq_city": "Melbourne, Vic",
+  "hq_country": "AU",
+  "us_entity_state": "FL",
+  "entity_type": "FORP",
+  "people": [
+   {
+    "name": "OWENS               BRENTON       M",
+    "roles": [
+     "CP"
+    ]
+   },
+   {
+    "name": "MARTIN              SIMON         T",
+    "roles": [
+     "VPST"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000007178",
+  "signal": "New Florida filing by a company based or formed in AU"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-19",
+  "company": "NEVIS WEALTH, INC.",
+  "hq_city": "London, England E14 5Ab",
+  "hq_country": "ENGLAND",
+  "us_entity_state": "FL",
+  "entity_type": "FORP",
+  "people": [
+   {
+    "name": "SWAN                MARK",
+    "roles": [
+     "P"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000007218",
+  "signal": "New Florida filing by a company based or formed in ENGLAND"
+ },
+ {
+  "source": "Florida Sunbiz",
   "signal_date": "2026-11-18",
   "company": "JIMENEZ FAMILY AND CO LLC",
   "hq_city": "Colonia Vertiz Navarte",
@@ -38,54 +138,38 @@
   "signal": "New Florida filing by a company based or formed in CANADA"
  },
  {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-11-17",
-  "company": "FELVERA GLOBAL LLC",
-  "hq_city": "Menemen , Izmir",
-  "hq_country": "TR",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
+  "source": "SEC Form D",
+  "signal_date": "2026-11-19",
+  "company": "AxSilver Corp.",
+  "hq_city": "Vancouver",
+  "hq_country": "Canada",
+  "us_entity_state": "BRITISH COLUMBIA, CANADA",
+  "year_of_inc": "2025",
+  "industry": "Other",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "7365",
+  "sold_usd": "7365",
+  "first_sale": "2026-11-13",
+  "phone": "604-687-7130",
   "people": [
    {
-    "name": "AKER                EMRAH",
+    "name": "Christina Phalen",
     "roles": [
-     "MGR"
-    ]
+     "Director"
+    ],
+    "clarification": ""
    },
    {
-    "name": "AKER                MEHMET",
+    "name": "Mario Vetro",
     "roles": [
-     "AMBR"
-    ]
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": "President and Director"
    }
   ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000575766",
-  "signal": "New Florida filing by a company based or formed in TR"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-11-17",
-  "company": "CROWNHILL (USA) INC.",
-  "hq_city": "Brampton, On L6Y 5K7 Canada",
-  "hq_country": "CANADA",
-  "us_entity_state": "FL",
-  "entity_type": "FORP",
-  "people": [
-   {
-    "name": "LOTA                ASHWINDER",
-    "roles": [
-     "P"
-    ]
-   },
-   {
-    "name": "LOTA                SAVRAJ",
-    "roles": [
-     "ST"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000007138",
-  "signal": "New Florida filing by a company based or formed in CANADA"
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2164773/000106299326006186/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
  },
  {
   "source": "SEC Form D",
