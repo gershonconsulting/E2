@@ -1,6 +1,62 @@
 [
  {
   "source": "Florida Sunbiz",
+  "signal_date": "2026-11-20",
+  "company": "DISTRITO 14 MIAMI LLC",
+  "hq_city": "Monterrey Nuevo Leon Mexico",
+  "hq_country": "MX",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [
+   {
+    "name": "GRANADOS SOTO       JORGE",
+    "roles": [
+     "MBR"
+    ]
+   },
+   {
+    "name": "GRANADOS SOTO       JAIME",
+    "roles": [
+     "MBR"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000582633",
+  "signal": "New Florida filing by a company based or formed in MX"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-20",
+  "company": "LINEAR INTERIOR SYSTEMS AMERICA INC.",
+  "hq_city": "Concord, On L4K 4G4 Canada",
+  "hq_country": "CANADA",
+  "us_entity_state": "FL",
+  "entity_type": "FORP",
+  "people": [
+   {
+    "name": "MAMMOLITI           ALDO",
+    "roles": [
+     "PDST"
+    ]
+   },
+   {
+    "name": "SALT                CHRISTOPHER",
+    "roles": [
+     "DCEO"
+    ]
+   },
+   {
+    "name": "ALBANESE            STEVEN        D",
+    "roles": [
+     "D"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000007225",
+  "signal": "New Florida filing by a company based or formed in CANADA"
+ },
+ {
+  "source": "Florida Sunbiz",
   "signal_date": "2026-11-19",
   "company": "COVENANT WALLCOVEERRING LLC",
   "hq_city": "Plant City Fl",
@@ -100,42 +156,45 @@
   "signal": "New Florida filing by a company based or formed in ENGLAND"
  },
  {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-11-18",
-  "company": "JIMENEZ FAMILY AND CO LLC",
-  "hq_city": "Colonia Vertiz Navarte",
-  "hq_country": "MX",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
+  "source": "SEC Form D",
+  "signal_date": "2026-11-20",
+  "company": "Engineered Arts Holding Company, Inc.",
+  "hq_city": "Falmouth",
+  "hq_country": "United Kingdom",
+  "us_entity_state": "DELAWARE",
+  "year_of_inc": "2024",
+  "industry": "Other Technology",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "15000000",
+  "sold_usd": "14500000",
+  "first_sale": "2026-02-06",
+  "phone": "667-274-0803",
   "people": [
    {
-    "name": "VICTOR GUADALUPE JIMENEZ BOLANOS",
+    "name": "Nicolas Desmarais",
     "roles": [
-     "MGR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000579315",
-  "signal": "New Florida filing by a company based or formed in MX"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-11-18",
-  "company": "CACTUS CAFE BOCA RATON INC.",
-  "hq_city": "Vancouver, Ba Canada V5Z 1E9",
-  "hq_country": "CANADA",
-  "us_entity_state": "FL",
-  "entity_type": "FORP",
-  "people": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": ""
+   },
    {
-    "name": "LATCHFORD           ANDREW",
+    "name": "John Pharr",
     "roles": [
-     "PD"
-    ]
+     "Executive Officer"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Joseph Mardini",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
    }
   ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000007157",
-  "signal": "New Florida filing by a company based or formed in CANADA"
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2165632/000216563226000001/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
  },
  {
   "source": "SEC Form D",
@@ -172,328 +231,6 @@
   "signal": "Filed SEC Form D for its US entity (raising from US investors)"
  },
  {
-  "source": "SEC Form D",
-  "signal_date": "2026-11-18",
-  "company": "Agrion International Ltd",
-  "hq_city": "Vancouver",
-  "hq_country": "Canada",
-  "us_entity_state": "BRITISH COLUMBIA, CANADA",
-  "year_of_inc": "",
-  "industry": "Other",
-  "revenue_range": "Decline to Disclose",
-  "offering_usd": "469426",
-  "sold_usd": "469426",
-  "first_sale": "2026-10-28",
-  "phone": "(604) 685-9316",
-  "people": [
-   {
-    "name": "Daniel Brody",
-    "roles": [
-     "Executive Officer",
-     "Director"
-    ],
-    "clarification": "President and CEO"
-   },
-   {
-    "name": "Desmond Balakrishnan",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Matt Anderson",
-    "roles": [
-     "Executive Officer"
-    ],
-    "clarification": "CFO"
-   },
-   {
-    "name": "Nick DeMare",
-    "roles": [
-     "Executive Officer"
-    ],
-    "clarification": "Corporate Secretary"
-   },
-   {
-    "name": "Nick Grafton",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   }
-  ],
-  "filing_url": "https://www.sec.gov/Archives/edgar/data/1518561/000206075526000069/",
-  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
- },
- {
-  "source": "SEC Form D",
-  "signal_date": "2026-11-18",
-  "company": "IOTUM INC",
-  "hq_city": "Toronto",
-  "hq_country": "Canada",
-  "us_entity_state": "DELAWARE",
-  "year_of_inc": "",
-  "industry": "Telecommunications",
-  "revenue_range": "Decline to Disclose",
-  "offering_usd": "2012412",
-  "sold_usd": "712556",
-  "first_sale": "2026-06-17",
-  "phone": "855-953-1555",
-  "people": [
-   {
-    "name": "Jason Martin",
-    "roles": [
-     "Executive Officer",
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Noam Tomczak",
-    "roles": [
-     "Executive Officer"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Diane Knight",
-    "roles": [
-     "Executive Officer"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Randall Howard",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Jim Estill",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Gord Forsythe",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Majd Shweikeh",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   }
-  ],
-  "filing_url": "https://www.sec.gov/Archives/edgar/data/1296604/000129660426000004/",
-  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
- },
- {
-  "source": "SEC Form D",
-  "signal_date": "2026-11-18",
-  "company": "NewcelX Ltd.",
-  "hq_city": "Kloten",
-  "hq_country": "Switzerland",
-  "us_entity_state": "SWITZERLAND",
-  "year_of_inc": "",
-  "industry": "Biotechnology",
-  "revenue_range": "Decline to Disclose",
-  "offering_usd": "2875023",
-  "sold_usd": "2875023",
-  "first_sale": "2026-11-09",
-  "phone": "41 44 512 21 50",
-  "people": [
-   {
-    "name": "Ronen Twito",
-    "roles": [
-     "Executive Officer",
-     "Director"
-    ],
-    "clarification": "Executive Chairman and Chief Executive Officer"
-   },
-   {
-    "name": "Michel Revel",
-    "roles": [
-     "Executive Officer",
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Kfir Molakandov",
-    "roles": [
-     "Executive Officer"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Omri Hagai",
-    "roles": [
-     "Executive Officer"
-    ],
-    "clarification": "Chief Financial Officer"
-   },
-   {
-    "name": "Alexander Zwyer",
-    "roles": [
-     "Executive Officer",
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Olivier Samuel",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Eran Iohan",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Liora Oren",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Tamar Galili",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   }
-  ],
-  "filing_url": "https://www.sec.gov/Archives/edgar/data/1783036/000121390026121840/",
-  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
- },
- {
-  "source": "SEC Form D",
-  "signal_date": "2026-11-18",
-  "company": "Vesalius Longevity Labs Inc.",
-  "hq_city": "Vancouver",
-  "hq_country": "Canada",
-  "us_entity_state": "BRITISH COLUMBIA, CANADA",
-  "year_of_inc": "",
-  "industry": "Pharmaceuticals",
-  "revenue_range": "Decline to Disclose",
-  "offering_usd": "13464278",
-  "sold_usd": "6499999",
-  "first_sale": "2026-11-06",
-  "phone": "507-666-6151",
-  "people": [
-   {
-    "name": "Christopher Cooper",
-    "roles": [
-     "Executive Officer"
-    ],
-    "clarification": "Chief Financial Officer"
-   },
-   {
-    "name": "Kevin Serre",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Robert McCue",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Joel Leonoff",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Kevin Mayer",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Lee Applbaum",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "David Adelman",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Timmi Stump",
-    "roles": [
-     "Executive Officer"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Pradeep Albert",
-    "roles": [
-     "Executive Officer"
-    ],
-    "clarification": "Chief Executive Officer"
-   },
-   {
-    "name": "James McRoberts",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   }
-  ],
-  "filing_url": "https://www.sec.gov/Archives/edgar/data/2131865/000106299326006173/",
-  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
- },
- {
-  "source": "Colorado business registry",
-  "signal_date": "2026-11-16",
-  "company": "BENEVITY, INC.",
-  "hq_city": "Denver",
-  "hq_country": "BC",
-  "us_entity_state": "CO",
-  "entity_type": "FPC",
-  "people": [],
-  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268392176",
-  "signal": "Registered a FPC in Colorado, formed in BC"
- },
- {
-  "source": "Colorado business registry",
-  "signal_date": "2026-11-17",
-  "company": "Sutherland Digital Philippines Inc.",
-  "hq_city": "Palayan City",
-  "hq_country": "Philippines",
-  "us_entity_state": "CO",
-  "entity_type": "FPC",
-  "people": [],
-  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268395097",
-  "signal": "Registered a FPC in Colorado, formed in Philippines"
- },
- {
   "source": "Colorado business registry",
   "signal_date": "2026-11-18",
   "company": "Hoodak Forensics & Family Consulting LLC",
@@ -516,5 +253,17 @@
   "people": [],
   "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268400777",
   "signal": "Registered a FNC in Colorado, formed in BC"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-11-20",
+  "company": "Busplanner USA, Inc.",
+  "hq_city": "Waterloo",
+  "hq_country": "CA",
+  "us_entity_state": "CO",
+  "entity_type": "FPC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268406401",
+  "signal": "Registered a FPC in Colorado, formed in DE"
  }
 ]
