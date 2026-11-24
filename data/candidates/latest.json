@@ -56,104 +56,154 @@
   "signal": "New Florida filing by a company based or formed in CANADA"
  },
  {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-11-19",
-  "company": "COVENANT WALLCOVEERRING LLC",
-  "hq_city": "Plant City Fl",
-  "hq_country": "TURKEY",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
-  "people": [],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000580692",
-  "signal": "New Florida filing by a company based or formed in TURKEY"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-11-19",
-  "company": "MICH IBANEZ LLC",
-  "hq_city": "Benito Juarez",
-  "hq_country": "MX",
-  "us_entity_state": "FL",
-  "entity_type": "FLAL",
+  "source": "SEC Form D",
+  "signal_date": "2026-11-23",
+  "company": "BuildDirect.com Technologies Inc.",
+  "hq_city": "Vancouver",
+  "hq_country": "Canada",
+  "us_entity_state": "BRITISH COLUMBIA, CANADA",
+  "year_of_inc": "",
+  "industry": "Other",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "797541",
+  "sold_usd": "797541",
+  "first_sale": "2026-11-20",
+  "phone": "604-662-8100",
   "people": [
    {
-    "name": "MICHELL IBANEZ CELIS",
+    "name": "Shawn Wilson",
     "roles": [
-     "MGR"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000580676",
-  "signal": "New Florida filing by a company based or formed in MX"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-11-19",
-  "company": "NACIONES10 CORP",
-  "hq_city": "Quayaquil",
-  "hq_country": "EC",
-  "us_entity_state": "FL",
-  "entity_type": "DOMP",
-  "people": [
-   {
-    "name": "MARIA MERCEDES CEPRIAN",
-    "roles": [
-     "D"
-    ]
+     "Executive Officer"
+    ],
+    "clarification": "CEO"
    },
    {
-    "name": "JOSE VICENTE MOQUERA",
+    "name": "Kerry Biggs",
     "roles": [
-     "D"
-    ]
-   }
-  ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=P26000054477",
-  "signal": "New Florida filing by a company based or formed in EC"
- },
- {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-11-19",
-  "company": "VITRAFY LIFE SCIENCES, INC.",
-  "hq_city": "Melbourne, Vic",
-  "hq_country": "AU",
-  "us_entity_state": "FL",
-  "entity_type": "FORP",
-  "people": [
-   {
-    "name": "OWENS               BRENTON       M",
-    "roles": [
-     "CP"
-    ]
+     "Executive Officer"
+    ],
+    "clarification": "CFO and Corporate Secretary"
    },
    {
-    "name": "MARTIN              SIMON         T",
+    "name": "Timothy Howley",
     "roles": [
-     "VPST"
-    ]
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Milan Roy",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Henry Lees-Buckley",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Eyal Ofir",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
    }
   ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000007178",
-  "signal": "New Florida filing by a company based or formed in AU"
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/1576159/000106299326006228/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
  },
  {
-  "source": "Florida Sunbiz",
-  "signal_date": "2026-11-19",
-  "company": "NEVIS WEALTH, INC.",
-  "hq_city": "London, England E14 5Ab",
-  "hq_country": "ENGLAND",
-  "us_entity_state": "FL",
-  "entity_type": "FORP",
+  "source": "SEC Form D",
+  "signal_date": "2026-11-23",
+  "company": "Catalog Solutions, Inc.",
+  "hq_city": "Bordeaux",
+  "hq_country": "France",
+  "us_entity_state": "DELAWARE",
+  "year_of_inc": "2023",
+  "industry": "Other",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "1156000",
+  "sold_usd": "1156000",
+  "first_sale": "2026-11-04",
+  "phone": "7 49 49 87 11",
   "people": [
    {
-    "name": "SWAN                MARK",
+    "name": "Julien Bellemare",
     "roles": [
-     "P"
-    ]
+     "Executive Officer"
+    ],
+    "clarification": ""
    }
   ],
-  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000007218",
-  "signal": "New Florida filing by a company based or formed in ENGLAND"
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2166080/000216608026000001/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-23",
+  "company": "First Canadian Graphite Inc.",
+  "hq_city": "Vancouver",
+  "hq_country": "Canada",
+  "us_entity_state": "BRITISH COLUMBIA, CANADA",
+  "year_of_inc": "",
+  "industry": "Other",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "1925714",
+  "sold_usd": "1925714",
+  "first_sale": "2026-11-17",
+  "phone": "6048383376",
+  "people": [
+   {
+    "name": "John LaGourgue",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": "CEO, President and Director"
+   },
+   {
+    "name": "Mike Iverson",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": "CFO and Director"
+   },
+   {
+    "name": "Rich Beaven",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Christian Paradis",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Alberto De Luca",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Scott Kelly",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": "CFO"
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/1715272/000117625626000102/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
  },
  {
   "source": "SEC Form D",
@@ -195,64 +245,6 @@
   ],
   "filing_url": "https://www.sec.gov/Archives/edgar/data/2165632/000216563226000001/",
   "signal": "Filed SEC Form D for its US entity (raising from US investors)"
- },
- {
-  "source": "SEC Form D",
-  "signal_date": "2026-11-19",
-  "company": "AxSilver Corp.",
-  "hq_city": "Vancouver",
-  "hq_country": "Canada",
-  "us_entity_state": "BRITISH COLUMBIA, CANADA",
-  "year_of_inc": "2025",
-  "industry": "Other",
-  "revenue_range": "Decline to Disclose",
-  "offering_usd": "7365",
-  "sold_usd": "7365",
-  "first_sale": "2026-11-13",
-  "phone": "604-687-7130",
-  "people": [
-   {
-    "name": "Christina Phalen",
-    "roles": [
-     "Director"
-    ],
-    "clarification": ""
-   },
-   {
-    "name": "Mario Vetro",
-    "roles": [
-     "Executive Officer",
-     "Director"
-    ],
-    "clarification": "President and Director"
-   }
-  ],
-  "filing_url": "https://www.sec.gov/Archives/edgar/data/2164773/000106299326006186/",
-  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
- },
- {
-  "source": "Colorado business registry",
-  "signal_date": "2026-11-18",
-  "company": "Hoodak Forensics & Family Consulting LLC",
-  "hq_city": "Wellington",
-  "hq_country": "GB",
-  "us_entity_state": "CO",
-  "entity_type": "DLLC",
-  "people": [],
-  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268400165",
-  "signal": "Registered a DLLC in Colorado, formed in CO"
- },
- {
-  "source": "Colorado business registry",
-  "signal_date": "2026-11-18",
-  "company": "Avalanche Canada",
-  "hq_city": "Revelstoke",
-  "hq_country": "BC",
-  "us_entity_state": "CO",
-  "entity_type": "FNC",
-  "people": [],
-  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268400777",
-  "signal": "Registered a FNC in Colorado, formed in BC"
  },
  {
   "source": "Colorado business registry",
