@@ -1,0 +1,365 @@
+[
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-24",
+  "company": "TEACHERS UNITED SCHOOL LLC",
+  "hq_city": "Santa Fe Argentina S2503",
+  "hq_country": "ARGENTINA",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [
+   {
+    "name": "TEACHERS UNITED LLC WYOMING",
+    "roles": [
+     "MGR"
+    ]
+   },
+   {
+    "name": "TEACHERS UNITED LLC WYOMING",
+    "roles": [
+     "AMBR"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000586120",
+  "signal": "New Florida filing by a company based or formed in ARGENTINA"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-24",
+  "company": "METROPOLITAN HOME PRODUCTS AMERICA INC.",
+  "hq_city": "Concord, On L4K 4G4 Canada",
+  "hq_country": "CANADA",
+  "us_entity_state": "FL",
+  "entity_type": "FORP",
+  "people": [
+   {
+    "name": "MAMMOLITI           ALDO",
+    "roles": [
+     "PDST"
+    ]
+   },
+   {
+    "name": "SALT                CHRISTOPHER",
+    "roles": [
+     "DCEO"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000007302",
+  "signal": "New Florida filing by a company based or formed in CANADA"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-24",
+  "company": "IMPACT AI INC.",
+  "hq_city": "Cobourg On Canada K9A 4J9",
+  "hq_country": "CANADA",
+  "us_entity_state": "FL",
+  "entity_type": "FORP",
+  "people": [
+   {
+    "name": "FREED               BRIAN",
+    "roles": [
+     "CP"
+    ]
+   },
+   {
+    "name": "METCALFE            CRAIG",
+    "roles": [
+     "VCVP"
+    ]
+   },
+   {
+    "name": "GAMMAGE             JUSTIN",
+    "roles": [
+     "D"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000007303",
+  "signal": "New Florida filing by a company based or formed in CANADA"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-24",
+  "company": "American Atomics Inc.",
+  "hq_city": "Vancouver",
+  "hq_country": "Canada",
+  "us_entity_state": "BRITISH COLUMBIA, CANADA",
+  "year_of_inc": "2022",
+  "industry": "Other",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "2630",
+  "sold_usd": "0",
+  "first_sale": "2026-11-13",
+  "phone": "416-574-4818",
+  "people": [
+   {
+    "name": "DAVID MITCHELL",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": "CEO"
+   },
+   {
+    "name": "DANIEL CRUZ",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": "CFO"
+   },
+   {
+    "name": "TERRY LYNCH",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "JEREMY TOWNING",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "HENRIK MIKKELSEN",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "CONOR LYNCH",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": "President"
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2080687/000206075526000070/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-24",
+  "company": "Vimy Pharmaceuticals Corp.",
+  "hq_city": "Toronto",
+  "hq_country": "Canada",
+  "us_entity_state": "BRITISH COLUMBIA, CANADA",
+  "year_of_inc": "2021",
+  "industry": "Pharmaceuticals",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "1472743",
+  "sold_usd": "1472743",
+  "first_sale": "2026-11-12",
+  "phone": "416-554-8412",
+  "people": [
+   {
+    "name": "David Suchon",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": "Chief Executive Officer"
+   },
+   {
+    "name": "Farris Smith",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": "President"
+   },
+   {
+    "name": "Darryl Firsten",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Riccardo Trecroce",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Christopher Burkett",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": "Chief Operating Officer, Corporate Secretary and General Counsel"
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2159202/000149315226054043/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-23",
+  "company": "BuildDirect.com Technologies Inc.",
+  "hq_city": "Vancouver",
+  "hq_country": "Canada",
+  "us_entity_state": "BRITISH COLUMBIA, CANADA",
+  "year_of_inc": "",
+  "industry": "Other",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "797541",
+  "sold_usd": "797541",
+  "first_sale": "2026-11-20",
+  "phone": "604-662-8100",
+  "people": [
+   {
+    "name": "Shawn Wilson",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": "CEO"
+   },
+   {
+    "name": "Kerry Biggs",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": "CFO and Corporate Secretary"
+   },
+   {
+    "name": "Timothy Howley",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Milan Roy",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Henry Lees-Buckley",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Eyal Ofir",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/1576159/000106299326006228/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-23",
+  "company": "Catalog Solutions, Inc.",
+  "hq_city": "Bordeaux",
+  "hq_country": "France",
+  "us_entity_state": "DELAWARE",
+  "year_of_inc": "2023",
+  "industry": "Other",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "1156000",
+  "sold_usd": "1156000",
+  "first_sale": "2026-11-04",
+  "phone": "7 49 49 87 11",
+  "people": [
+   {
+    "name": "Julien Bellemare",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2166080/000216608026000001/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-23",
+  "company": "First Canadian Graphite Inc.",
+  "hq_city": "Vancouver",
+  "hq_country": "Canada",
+  "us_entity_state": "BRITISH COLUMBIA, CANADA",
+  "year_of_inc": "",
+  "industry": "Other",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "1925714",
+  "sold_usd": "1925714",
+  "first_sale": "2026-11-17",
+  "phone": "6048383376",
+  "people": [
+   {
+    "name": "John LaGourgue",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": "CEO, President and Director"
+   },
+   {
+    "name": "Mike Iverson",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": "CFO and Director"
+   },
+   {
+    "name": "Rich Beaven",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Christian Paradis",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Alberto De Luca",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Scott Kelly",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": "CFO"
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/1715272/000117625626000102/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "Colorado business registry",
+  "signal_date": "2026-11-20",
+  "company": "Busplanner USA, Inc.",
+  "hq_city": "Waterloo",
+  "hq_country": "CA",
+  "us_entity_state": "CO",
+  "entity_type": "FPC",
+  "people": [],
+  "filing_url": "https://www.coloradosos.gov/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&masterFileId=20268406401",
+  "signal": "Registered a FPC in Colorado, formed in DE"
+ }
+]
