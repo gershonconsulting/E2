@@ -1,0 +1,283 @@
+[
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-24",
+  "company": "TEACHERS UNITED SCHOOL LLC",
+  "hq_city": "Santa Fe Argentina S2503",
+  "hq_country": "ARGENTINA",
+  "us_entity_state": "FL",
+  "entity_type": "FLAL",
+  "people": [
+   {
+    "name": "TEACHERS UNITED LLC WYOMING",
+    "roles": [
+     "MGR"
+    ]
+   },
+   {
+    "name": "TEACHERS UNITED LLC WYOMING",
+    "roles": [
+     "AMBR"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=L26000586120",
+  "signal": "New Florida filing by a company based or formed in ARGENTINA"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-24",
+  "company": "METROPOLITAN HOME PRODUCTS AMERICA INC.",
+  "hq_city": "Concord, On L4K 4G4 Canada",
+  "hq_country": "CANADA",
+  "us_entity_state": "FL",
+  "entity_type": "FORP",
+  "people": [
+   {
+    "name": "MAMMOLITI           ALDO",
+    "roles": [
+     "PDST"
+    ]
+   },
+   {
+    "name": "SALT                CHRISTOPHER",
+    "roles": [
+     "DCEO"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000007302",
+  "signal": "New Florida filing by a company based or formed in CANADA"
+ },
+ {
+  "source": "Florida Sunbiz",
+  "signal_date": "2026-11-24",
+  "company": "IMPACT AI INC.",
+  "hq_city": "Cobourg On Canada K9A 4J9",
+  "hq_country": "CANADA",
+  "us_entity_state": "FL",
+  "entity_type": "FORP",
+  "people": [
+   {
+    "name": "FREED               BRIAN",
+    "roles": [
+     "CP"
+    ]
+   },
+   {
+    "name": "METCALFE            CRAIG",
+    "roles": [
+     "VCVP"
+    ]
+   },
+   {
+    "name": "GAMMAGE             JUSTIN",
+    "roles": [
+     "D"
+    ]
+   }
+  ],
+  "filing_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByDocumentNumber?documentNumber=F26000007303",
+  "signal": "New Florida filing by a company based or formed in CANADA"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-25",
+  "company": "Greenbriar Sustainable Living Inc.",
+  "hq_city": "Vancouver",
+  "hq_country": "Canada",
+  "us_entity_state": "BRITISH COLUMBIA, CANADA",
+  "year_of_inc": "",
+  "industry": "Environmental Services",
+  "revenue_range": "Not Applicable",
+  "offering_usd": "1215000",
+  "sold_usd": "1215000",
+  "first_sale": "2026-11-05",
+  "phone": "949-903-5906",
+  "people": [
+   {
+    "name": "Michael Boyd",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Jeffrey Ciachursksi",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Brian Conlan",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Daniel Kunz",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "William Sutherland",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/1570843/000106299326006267/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-25",
+  "company": "MJ 1000 MONNAIES GROUPE",
+  "hq_city": "Oyonnax",
+  "hq_country": "France",
+  "us_entity_state": "FRANCE",
+  "year_of_inc": "2026",
+  "industry": "Manufacturing",
+  "revenue_range": "$1 - $1,000,000",
+  "offering_usd": "12000000",
+  "sold_usd": "2000000",
+  "first_sale": "",
+  "phone": "33679777520",
+  "people": [
+   {
+    "name": "Derick Rachid Pr?phet MOUKIAMA",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2166801/000216680126000001/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-24",
+  "company": "American Atomics Inc.",
+  "hq_city": "Vancouver",
+  "hq_country": "Canada",
+  "us_entity_state": "BRITISH COLUMBIA, CANADA",
+  "year_of_inc": "2022",
+  "industry": "Other",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "2630",
+  "sold_usd": "0",
+  "first_sale": "2026-11-13",
+  "phone": "416-574-4818",
+  "people": [
+   {
+    "name": "DAVID MITCHELL",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": "CEO"
+   },
+   {
+    "name": "DANIEL CRUZ",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": "CFO"
+   },
+   {
+    "name": "TERRY LYNCH",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "JEREMY TOWNING",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "HENRIK MIKKELSEN",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "CONOR LYNCH",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": "President"
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2080687/000206075526000070/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-24",
+  "company": "Vimy Pharmaceuticals Corp.",
+  "hq_city": "Toronto",
+  "hq_country": "Canada",
+  "us_entity_state": "BRITISH COLUMBIA, CANADA",
+  "year_of_inc": "2021",
+  "industry": "Pharmaceuticals",
+  "revenue_range": "Decline to Disclose",
+  "offering_usd": "1472743",
+  "sold_usd": "1472743",
+  "first_sale": "2026-11-12",
+  "phone": "416-554-8412",
+  "people": [
+   {
+    "name": "David Suchon",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": "Chief Executive Officer"
+   },
+   {
+    "name": "Farris Smith",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": "President"
+   },
+   {
+    "name": "Darryl Firsten",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Riccardo Trecroce",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Christopher Burkett",
+    "roles": [
+     "Executive Officer",
+     "Director"
+    ],
+    "clarification": "Chief Operating Officer, Corporate Secretary and General Counsel"
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2159202/000149315226054043/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ }
+]
