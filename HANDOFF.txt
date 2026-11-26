@@ -100,3 +100,10 @@ Report mailbox - report@gershonconsulting.com
 ================================================================
 END OF HANDOFF
 ================================================================
+
+## 2026-11-26 nightly push
+✅ PR #3 merged - mailer.py re-indented, default From "GC E2 <onboarding@resend.dev>".
+✅ PR #4 merged - field_spec.py, florida_pipeline.py, scoring.py re-indented; 3 nesting spots rebuilt from logic (see PR #4 body; Ariel to review). pytest 6/6.
+❌ Production is a hand-updated cron at /opt/e2 (run_daily.sh, 0 8 * * 1-6) with --send uncommented (LIVE): decide --send before updating /opt/e2.
+❌ Hardcoded public SFTP password still in florida_pipeline.py.
+❌ PR #2 weekly report needs STREAK_API_KEY + RESEND_API_KEY repo secrets + the workflow file from the PR text.
