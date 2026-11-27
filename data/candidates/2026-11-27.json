@@ -1,0 +1,82 @@
+[
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-25",
+  "company": "Greenbriar Sustainable Living Inc.",
+  "hq_city": "Vancouver",
+  "hq_country": "Canada",
+  "us_entity_state": "BRITISH COLUMBIA, CANADA",
+  "year_of_inc": "",
+  "industry": "Environmental Services",
+  "revenue_range": "Not Applicable",
+  "offering_usd": "1215000",
+  "sold_usd": "1215000",
+  "first_sale": "2026-11-05",
+  "phone": "949-903-5906",
+  "people": [
+   {
+    "name": "Michael Boyd",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Jeffrey Ciachursksi",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Brian Conlan",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "Daniel Kunz",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   },
+   {
+    "name": "William Sutherland",
+    "roles": [
+     "Director"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/1570843/000106299326006267/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ },
+ {
+  "source": "SEC Form D",
+  "signal_date": "2026-11-25",
+  "company": "MJ 1000 MONNAIES GROUPE",
+  "hq_city": "Oyonnax",
+  "hq_country": "France",
+  "us_entity_state": "FRANCE",
+  "year_of_inc": "2026",
+  "industry": "Manufacturing",
+  "revenue_range": "$1 - $1,000,000",
+  "offering_usd": "12000000",
+  "sold_usd": "2000000",
+  "first_sale": "",
+  "phone": "33679777520",
+  "people": [
+   {
+    "name": "Derick Rachid Pr?phet MOUKIAMA",
+    "roles": [
+     "Executive Officer"
+    ],
+    "clarification": ""
+   }
+  ],
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/2166801/000216680126000001/",
+  "signal": "Filed SEC Form D for its US entity (raising from US investors)"
+ }
+]
