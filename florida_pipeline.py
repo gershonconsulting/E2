@@ -6,7 +6,7 @@
   python3 florida_pipeline.py --file 20260612c.txt   # use local file
   python3 florida_pipeline.py --inspect 20260612c.txt # verify offsets
 """
-import argparse, csv, sys
+import argparse, csv, os, sys
 from datetime import datetime
 from pathlib import Path
 import paramiko
@@ -16,18 +16,27 @@ from scoring import score_record
 SFTP_HOST = "sftp.floridados.gov"
 SFTP_PORT = 22
 SFTP_USER = "Public"
-SFTP_PASS = "PubAccess1845!"
+SFTP_PASS_ENV = "E2_SFTP_PASSWORD"  # set in /opt/e2/.env (sourced by run_daily.sh) or the cron env
 SFTP_PATH = "doc/cor/{date}c.txt"
 OUT_DIR = Path("out")
 
 
+def sftp_password():
+    pw = os.environ.get(SFTP_PASS_ENV)
+    if not pw:
+        sys.exit(f"[pipeline] ERROR: {SFTP_PASS_ENV} is not set. Add it to /opt/e2/.env "
+                 f"(run_daily.sh loads it) or the cron environment, or use --file for a local file.")
+    return pw
+
+
 def download(date_str):
+    password = sftp_password()
     OUT_DIR.mkdir(exist_ok=True)
     remote = SFTP_PATH.format(date=date_str)
     local = OUT_DIR / f"{date_str}c.txt"
     print(f"[pipeline] SFTP {SFTP_HOST} -> {remote}")
     t = paramiko.Transport((SFTP_HOST, SFTP_PORT))
-    t.connect(username=SFTP_USER, password=SFTP_PASS)
+    t.connect(username=SFTP_USER, password=password)
     s = paramiko.SFTPClient.from_transport(t)
     s.get(remote, str(local))
     s.close(); t.close()
