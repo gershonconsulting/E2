@@ -107,3 +107,7 @@ END OF HANDOFF
 ❌ Production is a hand-updated cron at /opt/e2 (run_daily.sh, 0 8 * * 1-6) with --send uncommented (LIVE): decide --send before updating /opt/e2.
 ❌ Hardcoded public SFTP password still in florida_pipeline.py.
 ❌ PR #2 weekly report needs STREAK_API_KEY + RESEND_API_KEY repo secrets + the workflow file from the PR text.
+
+## 2026-11-27 nightly push (branch nightly/2026-11-27-e2-sftp-env, HELD)
+✅ florida_pipeline.py reads the SFTP password from E2_SFTP_PASSWORD (clear error + exit if unset; --file/--inspect unaffected). pytest 6/6.
+❌ Ariel: add E2_SFTP_PASSWORD to /opt/e2/.env (run_daily.sh sources it) BEFORE merging/updating /opt/e2. visa_signals/signals.py still hard-codes the same password.
